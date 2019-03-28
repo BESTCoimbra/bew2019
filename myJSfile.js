@@ -1,7 +1,7 @@
 let imagemAtual = 0;
+let imagens2=["jb.png","CS_red.png","CS_red.png", "bi_silque.png", "ESAlogoVert.png", "outsystems.png", "ipdj.png"];
 let imagens=["BorgWarner.jpg","FCTUC.png","Martifer_logo.png","BoldbyDevoteam_logo.png","skyline.png", "delloite.png"];
 
-let imagens2=["jb.png","CS_red.png","CS_red.png", "bi_silque.png", "ESAlogoVert.png", "outsystems.png", "ipdj.png"];
 
 function slider() {
     document.slide.src=imagens[imagemAtual];
