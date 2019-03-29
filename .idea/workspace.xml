@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6bb65dae-2ac2-42fe-923a-8cb1bd6082e5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Schedule.html" beforeDir="false" afterPath="$PROJECT_DIR$/Schedule.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myJSfile.js" beforeDir="false" afterPath="$PROJECT_DIR$/myJSfile.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myStyle.css" beforeDir="false" afterPath="$PROJECT_DIR$/myStyle.css" afterDir="false" />
-    </list>
+    <list default="true" id="6bb65dae-2ac2-42fe-923a-8cb1bd6082e5" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -148,17 +143,17 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="css" value="4" />
-          <entry key="html" value="33" />
+          <entry key="html" value="36" />
           <entry key="js" value="9" />
-          <entry key="txt" value="42" />
+          <entry key="txt" value="132" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="CSS" value="4" />
-          <entry key="HTML" value="33" />
+          <entry key="HTML" value="36" />
           <entry key="JavaScript" value="9" />
-          <entry key="PLAIN_TEXT" value="42" />
+          <entry key="PLAIN_TEXT" value="132" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -189,8 +184,8 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/Schedule.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="355">
-                  <caret line="120" column="16" selection-start-line="120" selection-start-column="16" selection-end-line="120" selection-end-column="16" />
+                <state relative-caret-position="189">
+                  <caret line="113" column="37" selection-start-line="113" selection-start-column="37" selection-end-line="113" selection-end-column="37" />
                   <folding>
                     <element signature="e#14488#14495#1" expanded="true" />
                   </folding>
@@ -253,7 +248,7 @@
                 <entry file="file://$PROJECT_DIR$/myStyle.css">
                   <provider selected="true" editor-type-id="text-editor">
                     <state relative-caret-position="405">
-                      <caret line="1236" column="1" selection-start-line="1236" selection-start-column="1" selection-end-line="1236" selection-end-column="1" />
+                      <caret line="1408" lean-forward="true" selection-start-line="1408" selection-end-line="1408" />
                     </state>
                   </provider>
                 </entry>
@@ -302,8 +297,8 @@
         <option value="$PROJECT_DIR$/Students.html" />
         <option value="$PROJECT_DIR$/Patners.html" />
         <option value="$PROJECT_DIR$/myJSfile.js" />
-        <option value="$PROJECT_DIR$/myStyle.css" />
         <option value="$PROJECT_DIR$/Schedule.html" />
+        <option value="$PROJECT_DIR$/myStyle.css" />
       </list>
     </option>
   </component>
@@ -376,7 +371,7 @@
       <workItem from="1553734868733" duration="5193000" />
       <workItem from="1553796056903" duration="831000" />
       <workItem from="1553815720536" duration="885000" />
-      <workItem from="1553884526669" duration="2053000" />
+      <workItem from="1553884526669" duration="2824000" />
     </task>
     <task id="LOCAL-00001" summary="acrecentar logos">
       <created>1553815828628</created>
@@ -427,11 +422,25 @@
       <option name="project" value="LOCAL" />
       <updated>1553886144072</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="adicionei Job Fair Info">
+      <created>1553898822288</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1553898822288</updated>
+    </task>
+    <task id="LOCAL-00009" summary="atualização do programa, company talks de quinta á tarde">
+      <created>1553903772618</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1553903772618</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="182049000" />
+    <option name="totallyTimeSpent" value="182820000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="777" extended-state="0" />
@@ -475,7 +484,9 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="acrecentar logos" />
     <MESSAGE value="favicon do site" />
-    <option name="LAST_COMMIT_MESSAGE" value="favicon do site" />
+    <MESSAGE value="adicionei Job Fair Info" />
+    <MESSAGE value="atualização do programa, company talks de quinta á tarde" />
+    <option name="LAST_COMMIT_MESSAGE" value="atualização do programa, company talks de quinta á tarde" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/logoCabecalho.png">
@@ -545,20 +556,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/myStyle.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="1236" column="1" selection-start-line="1236" selection-start-column="1" selection-end-line="1236" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Schedule.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="355">
-          <caret line="120" column="16" selection-start-line="120" selection-start-column="16" selection-end-line="120" selection-end-column="16" />
+        <state relative-caret-position="189">
+          <caret line="113" column="37" selection-start-line="113" selection-start-column="37" selection-end-line="113" selection-end-column="37" />
           <folding>
             <element signature="e#14488#14495#1" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myStyle.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="1408" lean-forward="true" selection-start-line="1408" selection-end-line="1408" />
         </state>
       </provider>
     </entry>
