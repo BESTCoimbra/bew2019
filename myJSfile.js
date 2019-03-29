@@ -65,3 +65,11 @@ function showAlert() {
     info.style.display="unset";
 
 }
+
+let infoJobFair= document.getElementById("jobFairInfo");
+function showJobFairInfo() {
+    infoJobFair.style.opacity="1";
+    infoJobFair.style.display="unset";
+
+}
+
