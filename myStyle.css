@@ -1453,6 +1453,36 @@ strong{
     height: 150px;
     z-index: 1;
 }
+.actFirstHandInvestigation{
+    position: absolute;
+    margin-left: 300px;
+    width: 130px;
+    height: 125px;
+    background-color: #CF0967;
+    color: #FFFFFF;
+    padding-left: 20px;
+    margin-top: 450px;
+    opacity: 0.84;
+    padding-top: 25px;
+
+}
+.actFirstHandInvestigation:hover{
+    margin-left: 295px;
+    width: 130px;
+    height: 140px;
+    color: #53C4F1;
+    padding-left: 20px;
+    margin-top: 445px;
+    padding-top: 20px;
+    opacity: 1;
+    z-index: 1;
+    padding-right: 10px;
+}
+.descriptionFirstHand{
+    font-size: 12px;
+}
+
+
 
 .actWorkshopArduino{
     position: absolute;
@@ -1466,8 +1496,6 @@ strong{
     align-items: center;
     margin-top: 225px;
     opacity: 0.79;
-
-
 }
 
 .actWorkshopOutsytem:hover{
@@ -1615,8 +1643,8 @@ strong{
     position: absolute;
 }
 .spaceBlanck04{
-    margin-top: 450px;
-    margin-left: 300px;
+    margin-top: 75px;
+    margin-left: 750px;
     opacity: 0.5;
 }
 .spaceBlanck09{
