@@ -44,7 +44,8 @@
     margin-left: -1200px;
 }
 .space5{
-    height: 75px;
+    height: 225px;
+    z-index: 0;
 }
 .space6{
     height: 68px;
@@ -520,7 +521,8 @@ h4{
 }
 
 .smallLogo1, .smallLogo2, .smallLogo3, .smallLogo4, .smallLogo5,
-.smallLogo6, .smallLogo7, .smallLogo8, .smallLogo9, .smallLogo10{
+.smallLogo6, .smallLogo7, .smallLogo8, .smallLogo9, .smallLogo10,
+.smallLogo11, .smallLogo12{
     width: 150px;
     height: 150px;
     background-color: #FFFFFF;
@@ -529,10 +531,31 @@ h4{
     z-index: 3;
 }
 .smallLogo1:hover, .smallLogo2:hover, .smallLogo3:hover, .smallLogo4:hover,.smallLogo9:hover,
-.smallLogo5:hover, .smallLogo6:hover, .smallLogo7:hover , .smallLogo8:hover,.smallLogo10:hover  {
+.smallLogo5:hover, .smallLogo6:hover, .smallLogo7:hover , .smallLogo8:hover,.smallLogo10:hover,
+.smallLogo11:hover, .smallLogo12:hover {
     width: 170px;
     height: 170px;
-    z-index: 2;
+    z-index: 3;
+}
+.smallLogo11{
+    margin-left: 150px;
+    margin-top: 600px;
+
+}
+.smallLogo12{
+    margin-left: 750px;
+    margin-top: 600px;
+
+}
+.smallLogo11:hover{
+    margin-left: 140px;
+    margin-top: 590px;
+
+}
+.smallLogo12:hover{
+    margin-left: 740px;
+    margin-top: 590px;
+
 }
 .smallLogo1{
     margin-left: 300px;
@@ -645,12 +668,36 @@ h4{
 .pinkSquare01, .pinkSquare02, .pinkSquare03, .pinkSquare04,
 .pinkSquare05, .pinkSquare06, .pinkSquare07, .pinkSquare08,
 .pinkSquare09, .pinkSquare10, .pinkSquare11, .pinkSquare12,
-.pinkSquare13, .pinkSquare14, .pinkSquare15, .pinkSquare16 {
+.pinkSquare13, .pinkSquare14, .pinkSquare15, .pinkSquare16,
+.pinkSquare17, .pinkSquare18, .pinkSquare19, .pinkSquare20 {
     width: 150px;
     height: 150px;
     position: absolute;
     z-index: 1;
 }
+.pinkSquare17{
+    margin-top: 600px;
+    margin-left: 0;
+    background-color: #53C4F1;
+}
+.pinkSquare18{
+    margin-top: 600px;
+    margin-left: 600px;
+    background-color: #53C4F1;
+}
+.pinkSquare19{
+    margin-top: 600px;
+    margin-left: 1050px;
+    background-color: #CF0967;
+
+}
+.pinkSquare20{
+    margin-top: 600px;
+    margin-left: 300px;
+    background-color: #CF0967;
+
+}
+
 .pinkSquare01{
     background-color: #CF0967;
 
