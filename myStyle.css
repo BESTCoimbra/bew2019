@@ -1322,7 +1322,7 @@ strong{
     width: 57px;
     height: 26px;
     padding-left: 17px;
-    margin-top: 361px;
+    margin-top: 285px;
     margin-left: 728px;
     background-color: #CF0967;
     color: #53C4F1;
@@ -1335,19 +1335,19 @@ strong{
 .pitchSkyline{
     position: absolute;
     margin-left: 750px;
-    height: 37.5px;
+    height: 38px;
     background-color: #CF0967;
     color: #FFFFFF;
     width: 115px;
     padding-left: 35px;
-    margin-top: 337.5px;
+    margin-top: 262px;
     opacity: 0.9;
 }
 .pitchSkyline:hover{
     width: 150px;
-    height: 47.5px;
+    height: 48px;
     margin-left: 745px;
-    margin-top: 335.5px;
+    margin-top: 257px;
     color: #53C4F1;
     z-index: 3;
     opacity: 1;
@@ -1355,24 +1355,23 @@ strong{
 .pitchCriticalSoftware{
     position: absolute;
     margin-left: 750px;
-    height: 37.5px;
+    height: 38px;
     background-color: #CF0967;
     color: #FFFFFF;
     width: 115px;
     padding-left: 35px;
-    margin-top: 375px;
+    margin-top: 300px;
     opacity: 0.9;
 }
 .pitchCriticalSoftware:hover{
     width: 140px;
-    height: 47.5px;
+    height: 48px;
     margin-left: 745px;
-    margin-top: 370px;
+    margin-top: 295px;
     color: #53C4F1;
     z-index: 3;
     opacity: 1;
-}
-.spaceBlanck19{
+}.spaceBlanck19{
     width: 150px;
     height: 37px;
     background-color: #251F54;
