@@ -1383,13 +1383,24 @@ strong{
 
 
 
+
+.spaceBlanck20{
+    position: absolute;
+    background-color: #251F54;
+    width: 150px;
+    height: 111px;
+    margin-left:750px ;
+    margin-top:450px ;
+    opacity: 0.6;
+}
+
 .companyTalkLateral{
     position: absolute;
-    width: 205px;
+    width: 150px;
     height: 26px;
-    padding-left: 95px;
-    margin-top: 586px;
-    margin-left: 614px;
+    padding-left: 40px;
+    margin-top: 642px;
+    margin-left: 669px;
     background-color: #CF0967;
     color: #53C4F1;
     padding-top: 2.5px;
@@ -1401,21 +1412,19 @@ strong{
 .companyTalkCriticalSoftware{
     position: absolute;
     margin-left: 750px;
-    height: 37.5px;
+    height: 39px;
     background-color: #CF0967;
     color: #FFFFFF;
     width: 115px;
     padding-left: 35px;
-    margin-top: 450px;
+    margin-top: 561px;
     opacity: 0.9;
 }
-
-
 .companyTalkCriticalSoftware:hover{
     width: 150px;
-    height: 47.5px;
+    height: 49px;
     margin-left: 745px;
-    margin-top: 440px;
+    margin-top: 553px;
     color: #53C4F1;
     z-index: 3;
     opacity: 1;
@@ -1423,21 +1432,19 @@ strong{
 .companyTalkMartifer{
     position: absolute;
     margin-left: 750px;
-    height: 37.5px;
+    height: 39px;
     background-color: #CF0967;
     color: #FFFFFF;
     width: 115px;
     padding-left: 35px;
-    margin-top: 487.5px;
+    margin-top: 600px;
     opacity: 0.85;
 }
-
-
 .companyTalkMartifer:hover{
     width: 150px;
-    height: 47.5px;
+    height: 49px;
     margin-left: 745px;
-    margin-top: 485.5px;
+    margin-top: 595px;
     color: #53C4F1;
     z-index: 3;
     opacity: 1;
@@ -1445,21 +1452,19 @@ strong{
 .companyTalkSkyline{
     position: absolute;
     margin-left: 750px;
-    height: 37.5px;
+    height: 39px;
     background-color: #CF0967;
     color: #FFFFFF;
     width: 115px;
     padding-left: 35px;
-    margin-top: 525px;
+    margin-top: 639px;
     opacity: 0.91;
 }
-
-
 .companyTalkSkyline:hover{
     width: 150px;
-    height: 47.5px;
+    height: 49px;
     margin-left: 745px;
-    margin-top: 515px;
+    margin-top: 635px;
     color: #53C4F1;
     z-index: 3;
     opacity: 1;
@@ -1467,21 +1472,19 @@ strong{
 .companyTalkOutSystem{
     position: absolute;
     margin-left: 750px;
-    height: 37.5px;
+    height: 39px;
     background-color: #CF0967;
     color: #FFFFFF;
     width: 115px;
     padding-left: 35px;
-    margin-top: 562.5px;
+    margin-top: 678px;
     opacity: 0.87;
 }
-
-
 .companyTalkOutSystem:hover{
     width: 150px;
-    height: 47.5px;
+    height: 49px;
     margin-left: 745px;
-    margin-top: 557.5px;
+    margin-top: 673px;
     color: #53C4F1;
     z-index: 3;
     opacity: 1;
@@ -1491,11 +1494,12 @@ strong{
     background-color: #CF0967;
     opacity: 0.7;
     margin-left: 750px;
-    margin-top: 600px;
+    margin-top: 717px;
     width: 150px;
-    height: 150px;
+    height: 33px;
     z-index: 1;
 }
+
 .actFirstHandInvestigation{
     position: absolute;
     margin-left: 300px;
