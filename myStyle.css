@@ -45,7 +45,7 @@
 }
 .space5{
     height: 225px;
-    z-index: 0;
+    z-index: 1;
 }
 .space6{
     height: 68px;
@@ -497,7 +497,8 @@ h4{
 .smallLogo1:hover .smallLogoImg,.smallLogo2:hover .smallLogoImg,
 .smallLogo3:hover .smallLogoImg, .smallLogo5:hover .smallLogoImg,
 .smallLogo7:hover .smallLogoImg, .smallLogo8:hover .smallLogoImg,
-.smallLogo10:hover .smallLogoImg{
+.smallLogo10:hover .smallLogoImg, .smallLogo11:hover .smallLogoImg,
+.smallLogo12:hover .smallLogoImg{
     width: 140px;
     margin-top: 60px;
     margin-left: 17px;
