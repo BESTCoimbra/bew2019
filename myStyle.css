@@ -1342,6 +1342,8 @@ strong{
     padding-left: 35px;
     margin-top: 262px;
     opacity: 0.9;
+    z-index: 3;
+
 }
 .pitchSkyline:hover{
     width: 150px;
@@ -1349,7 +1351,6 @@ strong{
     margin-left: 745px;
     margin-top: 257px;
     color: #53C4F1;
-    z-index: 3;
     opacity: 1;
 }
 .pitchCriticalSoftware{
@@ -1362,6 +1363,8 @@ strong{
     padding-left: 35px;
     margin-top: 300px;
     opacity: 0.9;
+    z-index: 3;
+
 }
 .pitchCriticalSoftware:hover{
     width: 140px;
@@ -1369,16 +1372,16 @@ strong{
     margin-left: 745px;
     margin-top: 295px;
     color: #53C4F1;
-    z-index: 3;
     opacity: 1;
 }.spaceBlanck19{
     width: 150px;
-    height: 37px;
+    height: 150px;
     background-color: #251F54;
     position: absolute;
     margin-top: 225px;
     margin-left: 750px;
     opacity: 0.7;
+    z-index: 0;
 }
 
 
