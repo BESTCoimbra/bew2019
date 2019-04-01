@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6bb65dae-2ac2-42fe-923a-8cb1bd6082e5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Schedule.html" beforeDir="false" afterPath="$PROJECT_DIR$/Schedule.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myStyle.css" beforeDir="false" afterPath="$PROJECT_DIR$/myStyle.css" afterDir="false" />
-    </list>
+    <list default="true" id="6bb65dae-2ac2-42fe-923a-8cb1bd6082e5" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -137,7 +133,7 @@
     <session id="1653719369">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
+          <entry key="project.closed" value="4" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.11" value="1" />
           <entry key="project.open.time.2" value="1" />
@@ -149,16 +145,16 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="css" value="150" />
-          <entry key="html" value="101" />
+          <entry key="css" value="186" />
+          <entry key="html" value="108" />
           <entry key="js" value="9" />
           <entry key="txt" value="517" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="CSS" value="150" />
-          <entry key="HTML" value="101" />
+          <entry key="CSS" value="186" />
+          <entry key="HTML" value="108" />
           <entry key="JavaScript" value="9" />
           <entry key="PLAIN_TEXT" value="517" />
         </counts>
@@ -193,8 +189,8 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/Schedule.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="284">
-                  <caret line="166" column="43" selection-start-line="166" selection-start-column="41" selection-end-line="166" selection-end-column="43" />
+                <state relative-caret-position="259">
+                  <caret line="166" column="60" selection-start-line="166" selection-start-column="60" selection-end-line="166" selection-end-column="60" />
                 </state>
               </provider>
             </entry>
@@ -208,8 +204,8 @@
               <file pinned="false" current-in-tab="true">
                 <entry file="file://$PROJECT_DIR$/myStyle.css">
                   <provider selected="true" editor-type-id="text-editor">
-                    <state relative-caret-position="265">
-                      <caret line="1858" column="74" selection-start-line="1858" selection-start-column="74" selection-end-line="1858" selection-end-column="74" />
+                    <state relative-caret-position="308">
+                      <caret line="1873" column="18" selection-start-line="1873" selection-start-column="18" selection-end-line="1873" selection-end-column="18" />
                     </state>
                   </provider>
                 </entry>
@@ -258,8 +254,8 @@
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/Students.html" />
         <option value="$PROJECT_DIR$/Patners.html" />
-        <option value="$PROJECT_DIR$/Schedule.html" />
         <option value="$PROJECT_DIR$/myStyle.css" />
+        <option value="$PROJECT_DIR$/Schedule.html" />
       </list>
     </option>
   </component>
@@ -269,7 +265,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
     <option name="y" value="23" />
     <option name="width" value="1280" />
     <option name="height" value="777" />
@@ -335,7 +331,7 @@
       <workItem from="1553884526669" duration="3090000" />
       <workItem from="1553908042797" duration="4988000" />
       <workItem from="1554069986413" duration="971000" />
-      <workItem from="1554076634461" duration="908000" />
+      <workItem from="1554076634461" duration="1593000" />
     </task>
     <task id="LOCAL-00001" summary="acrecentar logos">
       <created>1553815828628</created>
@@ -498,11 +494,18 @@
       <option name="project" value="LOCAL" />
       <updated>1554070531275</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="corrreção do horário pitch">
+      <created>1554082273034</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1554082273034</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="189953000" />
+    <option name="totallyTimeSpent" value="190638000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -632,17 +635,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Schedule.html">
+    <entry file="file://$PROJECT_DIR$/myStyle.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="284">
-          <caret line="166" column="43" selection-start-line="166" selection-start-column="41" selection-end-line="166" selection-end-column="43" />
+        <state relative-caret-position="308">
+          <caret line="1873" column="18" selection-start-line="1873" selection-start-column="18" selection-end-line="1873" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/myStyle.css">
+    <entry file="file://$PROJECT_DIR$/Schedule.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="265">
-          <caret line="1858" column="74" selection-start-line="1858" selection-start-column="74" selection-end-line="1858" selection-end-column="74" />
+        <state relative-caret-position="259">
+          <caret line="166" column="60" selection-start-line="166" selection-start-column="60" selection-end-line="166" selection-end-column="60" />
         </state>
       </provider>
     </entry>
