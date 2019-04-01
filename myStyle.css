@@ -1844,23 +1844,35 @@ strong{
     margin-top: 375px;
     margin-left: 450px;
 }
-.spaceBlanckLunch04{
-    opacity: 0.75;
-    margin-top: 375px;
-    margin-left: 600px;
-}
-
-.spaceBlanckLunch05{
-    opacity: 0.8;
-    margin-top: 413px;
-    margin-left: 750px;
-    height: 37px;
-}
-
 .spaceBlanckLunch06{
     opacity: 0.8;
     margin-top: 375px;
     margin-left: 1050px;
+}
+.spaceBlanckLunch04{
+    opacity: 0.97;
+    margin-top: 375px;
+    margin-left: 600px;
+    padding-left: 20px;
+    width: 280px;
+    color: #53C4F1;
+    transition: color 0.4s, background-color 0.4s, width 0.4s, height 0.4s,
+margin-top 0.4s, margin-left 0.4;
+    z-index: 3;
+}
+.spaceBlanckLunch04:hover{
+    opacity: 0.97;
+    margin-top: 370px;
+    margin-left: 595px;
+    height: 85px;
+    width: 285px;
+    color: #251F54;
+    background-color: #53C4F1;
+    padding-left: 25px;
+}
+.spaceBlanckLunch04 h2 {
+    margin-top: 17px;
+    font-size: 20px;
 }
 .dias p{
     font-weight: bold;

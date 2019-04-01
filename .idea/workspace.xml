@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6bb65dae-2ac2-42fe-923a-8cb1bd6082e5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Schedule.html" beforeDir="false" afterPath="$PROJECT_DIR$/Schedule.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/myStyle.css" beforeDir="false" afterPath="$PROJECT_DIR$/myStyle.css" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -141,21 +143,22 @@
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.24" value="1" />
           <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="5" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="css" value="42" />
-          <entry key="html" value="58" />
+          <entry key="css" value="150" />
+          <entry key="html" value="101" />
           <entry key="js" value="9" />
           <entry key="txt" value="517" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="CSS" value="42" />
-          <entry key="HTML" value="58" />
+          <entry key="CSS" value="150" />
+          <entry key="HTML" value="101" />
           <entry key="JavaScript" value="9" />
           <entry key="PLAIN_TEXT" value="517" />
         </counts>
@@ -181,62 +184,17 @@
           <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/Students.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="2235">
+                <state>
                   <caret line="149" column="92" selection-start-line="149" selection-start-column="92" selection-end-line="149" selection-end-column="92" />
                 </state>
               </provider>
             </entry>
           </file>
-          <file pinned="false" current-in-tab="false">
+          <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/Schedule.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="3240">
-                  <caret line="216" column="88" selection-start-line="216" selection-start-column="88" selection-end-line="216" selection-end-column="88" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/Team.html">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="3900">
-                  <caret line="260" column="92" selection-start-line="260" selection-start-column="92" selection-end-line="260" selection-end-column="92" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/Companies.html">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="2400">
-                  <caret line="160" column="92" selection-start-line="160" selection-start-column="92" selection-end-line="160" selection-end-column="92" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/Activities.html">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="3735">
-                  <caret line="249" column="88" selection-start-line="249" selection-start-column="88" selection-end-line="249" selection-end-column="88" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/index.html">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="4860">
-                  <caret line="324" column="88" selection-start-line="324" selection-start-column="88" selection-end-line="324" selection-end-column="88" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/Patners.html">
-              <provider selected="true" editor-type-id="text-editor">
-                <state>
-                  <caret line="77" selection-start-line="77" selection-end-line="77" />
+                <state relative-caret-position="284">
+                  <caret line="166" column="43" selection-start-line="166" selection-start-column="41" selection-end-line="166" selection-end-column="43" />
                 </state>
               </provider>
             </entry>
@@ -250,8 +208,8 @@
               <file pinned="false" current-in-tab="true">
                 <entry file="file://$PROJECT_DIR$/myStyle.css">
                   <provider selected="true" editor-type-id="text-editor">
-                    <state relative-caret-position="110">
-                      <caret line="1360" column="17" lean-forward="true" selection-start-line="1360" selection-start-column="17" selection-end-line="1360" selection-end-column="17" />
+                    <state relative-caret-position="265">
+                      <caret line="1858" column="74" selection-start-line="1858" selection-start-column="74" selection-end-line="1858" selection-end-column="74" />
                     </state>
                   </provider>
                 </entry>
@@ -263,7 +221,7 @@
               <file pinned="false" current-in-tab="true">
                 <entry file="file://$PROJECT_DIR$/myJSfile.js">
                   <provider selected="true" editor-type-id="text-editor">
-                    <state relative-caret-position="1">
+                    <state>
                       <caret line="3" column="152" selection-start-line="3" selection-start-column="152" selection-end-line="3" selection-end-column="152" />
                     </state>
                   </provider>
@@ -294,13 +252,13 @@
         <option value="$PROJECT_DIR$/styleMenu.css" />
         <option value="$PROJECT_DIR$/menu.html" />
         <option value="$PROJECT_DIR$/myJSfile.js" />
-        <option value="$PROJECT_DIR$/Schedule.html" />
         <option value="$PROJECT_DIR$/Team.html" />
         <option value="$PROJECT_DIR$/Companies.html" />
         <option value="$PROJECT_DIR$/Activities.html" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/Students.html" />
         <option value="$PROJECT_DIR$/Patners.html" />
+        <option value="$PROJECT_DIR$/Schedule.html" />
         <option value="$PROJECT_DIR$/myStyle.css" />
       </list>
     </option>
@@ -311,7 +269,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+  <component name="ProjectFrameBounds" fullScreen="true">
     <option name="y" value="23" />
     <option name="width" value="1280" />
     <option name="height" value="777" />
@@ -376,7 +334,8 @@
       <workItem from="1553815720536" duration="885000" />
       <workItem from="1553884526669" duration="3090000" />
       <workItem from="1553908042797" duration="4988000" />
-      <workItem from="1554069986413" duration="252000" />
+      <workItem from="1554069986413" duration="971000" />
+      <workItem from="1554076634461" duration="908000" />
     </task>
     <task id="LOCAL-00001" summary="acrecentar logos">
       <created>1553815828628</created>
@@ -511,14 +470,42 @@
       <option name="project" value="LOCAL" />
       <updated>1554070106878</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="corrreção do horário pitch">
+      <created>1554070246358</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1554070246358</updated>
+    </task>
+    <task id="LOCAL-00021" summary="corrreção do horário pitch">
+      <created>1554070324123</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1554070324123</updated>
+    </task>
+    <task id="LOCAL-00022" summary="corrreção do horário pitch">
+      <created>1554070399476</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1554070399476</updated>
+    </task>
+    <task id="LOCAL-00023" summary="corrreção do horário pitch">
+      <created>1554070531275</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1554070531275</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="188326000" />
+    <option name="totallyTimeSpent" value="189953000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1280" height="800" extended-state="6" />
+    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.2406672" />
@@ -598,64 +585,64 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Students.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2235">
+        <state>
           <caret line="149" column="92" selection-start-line="149" selection-start-column="92" selection-end-line="149" selection-end-column="92" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Schedule.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3240">
-          <caret line="216" column="88" selection-start-line="216" selection-start-column="88" selection-end-line="216" selection-end-column="88" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Team.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3900">
-          <caret line="260" column="92" selection-start-line="260" selection-start-column="92" selection-end-line="260" selection-end-column="92" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Companies.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2400">
-          <caret line="160" column="92" selection-start-line="160" selection-start-column="92" selection-end-line="160" selection-end-column="92" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Activities.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3735">
-          <caret line="249" column="88" selection-start-line="249" selection-start-column="88" selection-end-line="249" selection-end-column="88" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4860">
-          <caret line="324" column="88" selection-start-line="324" selection-start-column="88" selection-end-line="324" selection-end-column="88" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myJSfile.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1">
-          <caret line="3" column="152" selection-start-line="3" selection-start-column="152" selection-end-line="3" selection-end-column="152" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Patners.html">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="89" column="18" lean-forward="true" selection-start-line="89" selection-start-column="18" selection-end-line="89" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myJSfile.js">
+      <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret line="77" selection-start-line="77" selection-end-line="77" />
+          <caret line="3" column="152" selection-start-line="3" selection-start-column="152" selection-end-line="3" selection-end-column="152" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="639">
+          <caret line="324" column="88" selection-start-line="324" selection-start-column="88" selection-end-line="324" selection-end-column="88" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Activities.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="639">
+          <caret line="249" column="88" selection-start-line="249" selection-start-column="88" selection-end-line="249" selection-end-column="88" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Companies.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1363">
+          <caret line="160" column="92" selection-start-line="160" selection-start-column="92" selection-end-line="160" selection-end-column="92" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Team.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="639">
+          <caret line="260" column="92" selection-start-line="260" selection-start-column="92" selection-end-line="260" selection-end-column="92" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Schedule.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="284">
+          <caret line="166" column="43" selection-start-line="166" selection-start-column="41" selection-end-line="166" selection-end-column="43" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/myStyle.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="1360" column="17" lean-forward="true" selection-start-line="1360" selection-start-column="17" selection-end-line="1360" selection-end-column="17" />
+        <state relative-caret-position="265">
+          <caret line="1858" column="74" selection-start-line="1858" selection-start-column="74" selection-end-line="1858" selection-end-column="74" />
         </state>
       </provider>
     </entry>
