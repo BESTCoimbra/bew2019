@@ -82,6 +82,57 @@ p{
 #logo{
     margin-left:3%;
 }
+.inscriçõesBox{
+    margin-left:74%;
+    margin-top: -75px;
+    position: absolute;
+}
+.inscriçõesBox:hover{
+    margin-left:73.5%;
+    margin-top: -80px;
+    position: absolute;
+}
+.inscrições {
+    width: 170px;
+    height: 30px;
+    background-color: #53C4F1;
+    color: #FFFFFF;
+    padding-left: 18px;
+    padding-top: 9px;
+    transition: background-color 0.4s, color 0.4s,;
+    -webkit-animation-name: example; /* Safari 4.0 - 8.0 */
+    -webkit-animation-duration: 4s; /* Safari 4.0 - 8.0 */
+    animation-name: colorChange;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+}
+.inscrições:hover{
+    width: 178px;
+    height: 38px;
+    padding-left: 22px;
+    padding-top: 12px;
+
+}
+
+@-webkit-keyframes colorChange {
+    0%   {background-color: #53C4F1;}
+    33%  {background-color: #251F54;}
+    66%  {background-color: #CF0967;}
+    100% {background-color: #53C4F1;}
+}
+@keyframes colorChange {
+    0%   {background-color: #53C4F1;}
+    33%  {background-color: #251F54;}
+    66%  {background-color: #CF0967;}
+    100% {background-color: #53C4F1;}
+}
+
+
+.inscriçõesText{
+    font-size: 18px;
+    text-decoration: none;
+
+}
 #menuIcon{
     position: fixed;
     margin-left: 1175px;
@@ -1737,50 +1788,6 @@ strong{
      z-index: 3;
      opacity: 1;
 }
-
-.inscriçõesBox{
-    margin-left: 1050px;
-    margin-top: -7px;
-    z-index: 4;
-    position: absolute;
-
-
-}
-.inscrições {
-    width: 130px;
-    height: 105px;
-    background-color: #53C4F1;
-    color: #FFFFFF;
-    padding-left: 20px;
-    padding-top: 45px;
-    z-index: 4;
-    transition: background-color 0.4s, color 0.4s,;
-    -webkit-animation-name: example; /* Safari 4.0 - 8.0 */
-    -webkit-animation-duration: 4s; /* Safari 4.0 - 8.0 */
-    animation-name: colorChange;
-    animation-duration: 3s;
-    animation-iteration-count: infinite;
-
-
-}
-@-webkit-keyframes colorChange {
-    0%   {background-color: #53C4F1;}
-    50%  {background-color: #251F54;}
-    100% {background-color: #53C4F1;}
-}
-@keyframes colorChange {
-    0%   {background-color: #53C4F1;}
-    50%  {background-color: #251F54;}
-    100% {background-color: #53C4F1;}
-}
-
-
-.inscriçõesText{
-    font-size: 20px;
-    text-decoration: none;
-
-}
-
 
 
 .scheduleActivities a div h2:first-child{
