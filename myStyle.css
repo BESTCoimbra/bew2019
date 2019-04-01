@@ -555,8 +555,6 @@ h4{
     margin-left: 150px;
     margin-top: 600px;
     z-index: 4;
-
-
 }
 .smallLogo12{
     margin-left: 750px;
@@ -1686,15 +1684,36 @@ strong{
     margin-top: 225px;
     opacity: 0.87;
 }
- .actWorkshop:hover{
-     width: 140px;
-     height: 160px;
-     margin-left: 295px;
-     margin-top: 220px;
-     color: #53C4F1;
-     z-index: 3;
-     opacity: 1;
- }
+.actWorkshop:hover{
+    width: 140px;
+    height: 160px;
+    margin-left: 295px;
+    margin-top: 220px;
+    color: #53C4F1;
+    z-index: 3;
+    opacity: 1;
+}
+.actWorkshopRobotica{
+    position: absolute;
+    margin-left: 150px;
+    width: 130px;
+    height: 150px;
+    background-color: #CF0967;
+    color: #FFFFFF;
+    padding-left: 20px;
+    margin-top: 225px;
+    opacity: 0.78;
+}
+.actWorkshopRobotica:hover{
+    width: 140px;
+    height: 160px;
+    margin-left: 145px;
+    margin-top: 220px;
+    color: #53C4F1;
+    z-index: 3;
+    opacity: 1;
+}
+
 
 
 .actCaseStudy{
