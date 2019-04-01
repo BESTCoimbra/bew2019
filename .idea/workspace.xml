@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="6bb65dae-2ac2-42fe-923a-8cb1bd6082e5" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Schedule.html" beforeDir="false" afterPath="$PROJECT_DIR$/Schedule.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/myStyle.css" beforeDir="false" afterPath="$PROJECT_DIR$/myStyle.css" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -140,27 +139,28 @@
           <entry key="project.closed" value="5" />
           <entry key="project.open.time.1" value="2" />
           <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.13" value="1" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.24" value="1" />
           <entry key="project.open.time.8" value="2" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="8" />
+          <entry key="project.opened" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="css" value="489" />
-          <entry key="html" value="233" />
+          <entry key="css" value="509" />
+          <entry key="html" value="266" />
           <entry key="js" value="9" />
-          <entry key="txt" value="585" />
+          <entry key="txt" value="597" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="CSS" value="489" />
-          <entry key="HTML" value="233" />
+          <entry key="CSS" value="509" />
+          <entry key="HTML" value="266" />
           <entry key="JavaScript" value="9" />
-          <entry key="PLAIN_TEXT" value="585" />
+          <entry key="PLAIN_TEXT" value="597" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -188,8 +188,8 @@
               <file pinned="false" current-in-tab="true">
                 <entry file="file://$PROJECT_DIR$/Schedule.html">
                   <provider selected="true" editor-type-id="text-editor">
-                    <state relative-caret-position="201">
-                      <caret line="57" column="24" selection-start-line="57" selection-start-column="24" selection-end-line="57" selection-end-column="24" />
+                    <state relative-caret-position="221">
+                      <caret line="124" column="77" selection-start-line="124" selection-start-column="77" selection-end-line="124" selection-end-column="77" />
                     </state>
                   </provider>
                 </entry>
@@ -197,12 +197,12 @@
             </leaf>
           </split-first>
           <split-second>
-            <leaf>
+            <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
               <file pinned="false" current-in-tab="true">
                 <entry file="file://$PROJECT_DIR$/myStyle.css">
                   <provider selected="true" editor-type-id="text-editor">
-                    <state relative-caret-position="206">
-                      <caret line="1744" column="19" selection-start-line="1744" selection-start-column="19" selection-end-line="1744" selection-end-column="19" />
+                    <state relative-caret-position="330">
+                      <caret line="1741" column="21" selection-start-line="1741" selection-start-column="21" selection-end-line="1741" selection-end-column="21" />
                     </state>
                   </provider>
                 </entry>
@@ -263,9 +263,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="y" value="23" />
     <option name="width" value="1280" />
-    <option name="height" value="777" />
+    <option name="height" value="800" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -330,7 +329,8 @@
       <workItem from="1554069986413" duration="971000" />
       <workItem from="1554076634461" duration="1593000" />
       <workItem from="1554112493719" duration="700000" />
-      <workItem from="1554142967116" duration="4371000" />
+      <workItem from="1554142967116" duration="4657000" />
+      <workItem from="1554149881339" duration="251000" />
     </task>
     <task id="LOCAL-00001" summary="acrecentar logos">
       <created>1553815828628</created>
@@ -521,11 +521,25 @@
       <option name="project" value="LOCAL" />
       <updated>1554143722350</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="inscrições">
+      <created>1554148898232</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1554148898232</updated>
+    </task>
+    <task id="LOCAL-00029" summary="inscrições">
+      <created>1554148948438</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1554148948438</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="195709000" />
+    <option name="totallyTimeSpent" value="196246000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -585,7 +599,8 @@
     <MESSAGE value="alteração footer para icons" />
     <MESSAGE value="correção subreposição" />
     <MESSAGE value="mais um workshop" />
-    <option name="LAST_COMMIT_MESSAGE" value="mais um workshop" />
+    <MESSAGE value="inscrições" />
+    <option name="LAST_COMMIT_MESSAGE" value="inscrições" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/logoCabecalho.png">
@@ -660,15 +675,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Schedule.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="201">
-          <caret line="57" column="24" selection-start-line="57" selection-start-column="24" selection-end-line="57" selection-end-column="24" />
+        <state relative-caret-position="221">
+          <caret line="124" column="77" selection-start-line="124" selection-start-column="77" selection-end-line="124" selection-end-column="77" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/myStyle.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="206">
-          <caret line="1744" column="19" selection-start-line="1744" selection-start-column="19" selection-end-line="1744" selection-end-column="19" />
+        <state relative-caret-position="330">
+          <caret line="1741" column="21" selection-start-line="1741" selection-start-column="21" selection-end-line="1741" selection-end-column="21" />
         </state>
       </provider>
     </entry>
