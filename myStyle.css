@@ -554,21 +554,29 @@ h4{
 .smallLogo11{
     margin-left: 150px;
     margin-top: 600px;
+    z-index: 4;
+
 
 }
 .smallLogo12{
     margin-left: 750px;
     margin-top: 600px;
+    z-index: 4;
+
 
 }
 .smallLogo11:hover{
     margin-left: 140px;
     margin-top: 590px;
+    z-index: 4;
+
 
 }
 .smallLogo12:hover{
     margin-left: 740px;
     margin-top: 590px;
+    z-index: 4;
+
 
 }
 .smallLogo1{
