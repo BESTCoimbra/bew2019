@@ -384,22 +384,35 @@ h4{
 #bestLinks{
     position: absolute;
     width: 100px;
-    margin-left: 400px;
+    margin-left: 420px;
     margin-top: 130px;
+}
+#bestIcons{
+    position: absolute;
+    width: 20px;
+    margin-left: 390px;
+    margin-top: 135px;
 }
 #bewLinks{
     position: absolute;
     width: 100px;
     margin-top: 160px;
-    margin-left: 1000px;
+    margin-left: 1020px;
+
+}
+#bewIcons{
+    position: absolute;
+    width: 20px;
+    margin-top: 165px;
+    margin-left: 990px;
 
 }
 .link{
     color: #FFFFFF;
-    font-size: 18px;
+    font-size: 10px;
     font-family: PTSans;
     text-decoration: none;
-    line-height: 30px;
+    line-height: 35px;
 
 }
 .img01slide{
