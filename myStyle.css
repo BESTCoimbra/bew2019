@@ -1545,7 +1545,7 @@ strong{
 .companyTalkOutSystem{
     position: absolute;
     margin-left: 750px;
-    height: 39px;
+    height: 38px;
     background-color: #CF0967;
     color: #FFFFFF;
     width: 115px;
@@ -1555,22 +1555,35 @@ strong{
 }
 .companyTalkOutSystem:hover{
     width: 150px;
-    height: 49px;
+    height: 48px;
     margin-left: 745px;
     margin-top: 673px;
     color: #53C4F1;
     z-index: 3;
     opacity: 1;
 }
-.nextTalks{
+
+.companyTalkInnowave{
     position: absolute;
-    background-color: #CF0967;
-    opacity: 0.7;
     margin-left: 750px;
-    margin-top: 717px;
+    height: 38px;
+    background-color: #CF0967;
+    color: #FFFFFF;
+    width: 115px;
+    padding-left: 35px;
+    opacity: 0.7;
+    margin-top: 715px;
+    z-index: 2;
+
+}
+.companyTalkInnowave:hover{
     width: 150px;
-    height: 33px;
-    z-index: 1;
+    height: 48px;
+    margin-left: 745px;
+    margin-top: 710px;
+    color: #53C4F1;
+    z-index: 3;
+    opacity: 1;
 }
 
 .actFirstHandInvestigation{
@@ -1727,16 +1740,17 @@ strong{
 .actWorkshop{
     position: absolute;
     margin-left: 300px;
-    width: 130px;
+    width: 120px;
     height: 150px;
     background-color: #CF0967;
     color: #FFFFFF;
     padding-left: 20px;
+    padding-right: 10px;
     margin-top: 225px;
     opacity: 0.87;
 }
 .actWorkshop:hover{
-    width: 140px;
+    width: 130px;
     height: 160px;
     margin-left: 295px;
     margin-top: 220px;
@@ -1797,7 +1811,12 @@ strong{
     font-family: PTSans;
     font-size: 16px;
 }
-.descriptionAct3{
+
+.descriptionAct5{
+    font-family: PTSans;
+    font-size: 14px;
+    margin-top: -17px;
+
 }
 .descriptionAct2{
     margin-top: -80px;
