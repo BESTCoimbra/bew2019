@@ -82,17 +82,17 @@ p{
 #logo{
     margin-left:3%;
 }
-.inscriçõesBox{
+.inscricoesBox{
     margin-left:74%;
     margin-top: -75px;
     position: absolute;
 }
-.inscriçõesBox:hover{
+.inscricoesBox:hover{
     margin-left:73.5%;
     margin-top: -80px;
     position: absolute;
 }
-.inscrições {
+.inscricoes {
     width: 170px;
     height: 30px;
     background-color: #53C4F1;
@@ -106,7 +106,7 @@ p{
     animation-duration: 5s;
     animation-iteration-count: infinite;
 }
-.inscrições:hover{
+.inscricoes:hover{
     width: 178px;
     height: 38px;
     padding-left: 22px;
