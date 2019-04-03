@@ -1479,11 +1479,11 @@ strong{
 
 .companyTalkLateral{
     position: absolute;
-    width: 150px;
+    width: 185px;
     height: 26px;
-    padding-left: 40px;
-    margin-top: 567px;
-    margin-left: 669px;
+    padding-left: 75px;
+    margin-top: 605px;
+    margin-left: 635px;
     background-color: #CF0967;
     color: #53C4F1;
     padding-top: 2.5px;
@@ -1514,8 +1514,6 @@ strong{
     opacity: 1;
 }
 .companyTalkMartifer{
-
-
     position: absolute;
     margin-left: 750px;
     height: 38px;
@@ -1601,7 +1599,51 @@ strong{
     z-index: 3;
     opacity: 1;
 }
-
+.companyTalkBorgWarner{
+    position: absolute;
+    margin-left: 750px;
+    height: 38px;
+    background-color: #CF0967;
+    color: #FFFFFF;
+    width: 115px;
+    padding-left: 35px;
+    opacity: 0.85;
+    margin-top: 676px;
+    z-index: 2;
+}
+.companyTalkBorgWarner:hover{
+    width: 150px;
+    height: 48px;
+    margin-left: 745px;
+    margin-top: 671px;
+    color: #53C4F1;
+    z-index: 3;
+    opacity: 1;
+}
+.companyTalkStratioAutomotive{
+    position: absolute;
+    margin-left: 750px;
+    height: 36px;
+    background-color: #CF0967;
+    color: #FFFFFF;
+    width: 115px;
+    padding-left: 35px;
+    opacity: 0.8;
+    margin-top: 714px;
+    z-index: 2;
+}
+.companyTalkStratioAutomotive:hover{
+    width: 150px;
+    height: 46px;
+    margin-left: 745px;
+    margin-top: 709px;
+    color: #53C4F1;
+    z-index: 3;
+    opacity: 1;
+}
+#descriptionStratio{
+    font-size: 12px;
+}
 .actFirstHandInvestigation{
     position: absolute;
     margin-left: 300px;
@@ -1694,7 +1736,7 @@ strong{
     width: 140px;
     height: 160px;
     margin-left: 595px;
-    margin-top: 445px;
+    margin-top: 595px;
     color: #53C4F1;
     z-index: 3;
     opacity: 1;
