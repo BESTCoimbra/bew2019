@@ -587,7 +587,7 @@ h4{
 
 .smallLogo1, .smallLogo2, .smallLogo3, .smallLogo4, .smallLogo5,
 .smallLogo6, .smallLogo7, .smallLogo8, .smallLogo9, .smallLogo10,
-.smallLogo11, .smallLogo12, .smallLogo13{
+.smallLogo11, .smallLogo12, .smallLogo13, .smallLogo14{
     width: 150px;
     height: 150px;
     background-color: #FFFFFF;
@@ -597,7 +597,7 @@ h4{
 }
 .smallLogo1:hover, .smallLogo2:hover, .smallLogo3:hover, .smallLogo4:hover,.smallLogo9:hover,
 .smallLogo5:hover, .smallLogo6:hover, .smallLogo7:hover , .smallLogo8:hover,.smallLogo10:hover,
-.smallLogo11:hover, .smallLogo12:hover, .smallLogo13:hover  {
+.smallLogo11:hover, .smallLogo12:hover, .smallLogo13:hover, .smallLogo14:hover {
     width: 170px;
     height: 170px;
     z-index: 3;
@@ -606,6 +606,19 @@ h4{
     margin-left: 150px;
     margin-top: 600px;
     z-index: 4;
+}
+
+.smallLogo14{
+    margin-left: 1050px;
+    margin-top: 600px;
+    z-index: 4;
+
+}
+.smallLogo14:hover{
+    margin-left: 1040px;
+    margin-top: 590px;
+    z-index: 4;
+
 }
 .smallLogo12{
      margin-left: 750px;

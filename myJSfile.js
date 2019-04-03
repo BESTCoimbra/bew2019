@@ -1,5 +1,5 @@
 let imagemAtual = 0;
-let imagens=["BorgWarner.jpg","FCTUC.png","Martifer_logo.png","BoldbyDevoteam_logo.png","skyline.png", "delloite.png", "Mercedes_Benz_io.png", "TechnipFMC.PNG", "Innowave.png"];
+let imagens=["Stratio_Automotive.png","BorgWarner.jpg","FCTUC.png","Martifer_logo.png","BoldbyDevoteam_logo.png","skyline.png", "delloite.png", "Mercedes_Benz_io.png", "TechnipFMC.PNG", "Innowave.png"];
 
 let imagens2=["jb.png","CS_red.png","ipdj.png", "bi_silque.png", "ESAlogoVert.png", "outsystems.png", "ipdj.png", "ESAlogoVert.png", "CS_red.png","Navigator.png"];
 
