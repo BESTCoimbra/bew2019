@@ -1375,8 +1375,38 @@ opacity: 0.8;
     display:none ;
     align-items: center;
 }
+#workshopMercedesInfo{
+    position: fixed;
+    place-content: center;
+    margin-left: 400px;
+    width: 390px;
+    padding:30px ;
+    height: 240px;
+    background-color: #251F54;
+    color: #FFFFFF;
+    z-index: 4;
+    margin-top: -200px;
+    font-family:PTSans;
+    align-items: center;
+    overflow: auto;
+    display: none;
+
+}
+.titulo{
+    font-size: 20px;
+}
+.requesitos{
+    color: #53C4F1;
+}
+.praticInfo{
+    color: #53C4F1;
+    margin-left: 20px;
+}
 strong{
     font-family: PTSansBold;
+}
+#workshopMercedesInfo span{
+    margin-left: 360px;
 }
 
 .closebtn{
@@ -1836,16 +1866,20 @@ strong{
     position: absolute;
     margin-left: 150px;
     width: 130px;
-    height: 150px;
+    height: 75px;
     background-color: #CF0967;
     color: #FFFFFF;
     padding-left: 20px;
     margin-top: 225px;
     opacity: 0.78;
 }
+.actWorkshopRobotica h2{
+    font-size: 16px;
+}
+
 .actWorkshopRobotica:hover{
     width: 140px;
-    height: 160px;
+    height: 85px;
     margin-left: 145px;
     margin-top: 220px;
     color: #53C4F1;
@@ -1899,7 +1933,8 @@ strong{
     margin-top: -40px;
 }
 .descriptionAct4{
-    margin-top: -15px;
+    font-size:14px;
+    margin-top: -13px;
 }
 .spaceBlanck01, .spaceBlanck02,.spaceBlanck03,.spaceBlanck04, .spaceBlanck09,
 .spaceBlanck05, .spaceBlanck06, .spaceBlanck07, .spaceBlanck08,
@@ -1910,6 +1945,17 @@ strong{
     background-color: #251F54;
     position: absolute;
 }
+.spaceBlanck21{
+    width: 150px;
+    height: 75px;
+    background-color: #251F54;
+    position: absolute;
+    margin-top: 300px;
+    margin-left: 150px;
+    opacity: 0.75;
+}
+
+
 .spaceBlanck04{
     margin-top: 75px;
     margin-left: 750px;

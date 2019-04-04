@@ -71,4 +71,10 @@ function showJobFairInfo() {
     infoJobFair.style.display="unset";
 
 }
+let infoWorkshopMercedes= document.getElementById("workshopMercedesInfo");
+function showWorkMercedesInfo() {
+    infoWorkshopMercedes.style.opacity="1";
+    infoWorkshopMercedes.style.display="unset";
+
+}
 
