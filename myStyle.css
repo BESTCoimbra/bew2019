@@ -1527,6 +1527,7 @@ strong{
     opacity: 1;
 }
 .companyTalkMartifer{
+
     position: absolute;
     margin-left: 750px;
     height: 38px;
@@ -1534,17 +1535,19 @@ strong{
     color: #FFFFFF;
     width: 115px;
     padding-left: 35px;
-    margin-top: 600px;
-    opacity: 0.87;
-    z-index: 3;
+    opacity: 0.7;
+    margin-top: 638px;
+    z-index: 2;
 
 }
 .companyTalkMartifer:hover{
+
     width: 150px;
     height: 48px;
     margin-left: 745px;
-    margin-top: 595px;
+    margin-top: 635px;
     color: #53C4F1;
+    z-index: 3;
     opacity: 1;
 }
 .companyTalkSkyline{
@@ -1598,19 +1601,19 @@ strong{
     color: #FFFFFF;
     width: 115px;
     padding-left: 35px;
-    opacity: 0.7;
-    margin-top: 638px;
-    z-index: 2;
+    margin-top: 600px;
+    opacity: 0.87;
+    z-index: 3;
 
 }
 .companyTalkInnowave:hover{
     width: 150px;
     height: 48px;
     margin-left: 745px;
-    margin-top: 635px;
+    margin-top: 595px;
     color: #53C4F1;
-    z-index: 3;
     opacity: 1;
+
 }
 .companyTalkBorgWarner{
     position: absolute;
