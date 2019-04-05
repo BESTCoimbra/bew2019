@@ -1375,11 +1375,11 @@ opacity: 0.8;
     display:none ;
     align-items: center;
 }
-#workshopMercedesInfo{
+#LunchInfo{
     position: fixed;
     place-content: center;
-    margin-left: 400px;
-    width: 390px;
+    margin-left: 450px;
+    width: 240px;
     padding:30px ;
     height: 240px;
     background-color: #251F54;
@@ -1387,11 +1387,222 @@ opacity: 0.8;
     z-index: 4;
     margin-top: -200px;
     font-family:PTSans;
+    display:none ;
+    align-items: center;
+}
+.lunch{
+    color: #53C4F1;
+    font-size: 16px;
+}
+#workshopMercedesInfo{
+    position: fixed;
+    place-content: center;
+    margin-left: 400px;
+    width: 390px;
+    padding:30px 40px 30px 40px;
+    height: 400px;
+    background-color: #251F54;
+    color: #FFFFFF;
+    z-index: 4;
+    margin-top: -250px;
+    font-family:PTSans;
     align-items: center;
     overflow: auto;
     display: none;
 
 }
+#firtsHandInvestigationInfo{
+    position: fixed;
+    place-content: center;
+    margin-left: 400px;
+    width: 390px;
+    padding:30px 40px 30px 40px;
+    height: 400px;
+    background-color: #251F54;
+    color: #FFFFFF;
+    z-index: 4;
+    margin-top: -250px;
+    font-family:PTSans;
+    align-items: center;
+    overflow: auto;
+    display: none;
+}
+#workshopRoboticaInfo{
+    position: fixed;
+    place-content: center;
+    margin-left: 400px;
+    width: 390px;
+    padding:30px 40px 30px 40px;
+    height: 400px;
+    background-color: #251F54;
+    color: #FFFFFF;
+    z-index: 4;
+    margin-top: -250px;
+    font-family:PTSans;
+    align-items: center;
+    overflow: auto;
+    display: none;
+
+}
+#caseStudyInfo{
+    position: fixed;
+    place-content: center;
+    margin-left: 400px;
+    width: 390px;
+    padding:30px 40px 30px 40px;
+    height: 400px;
+    background-color: #251F54;
+    color: #FFFFFF;
+    z-index: 4;
+    margin-top: -250px;
+    font-family:PTSans;
+    align-items: center;
+    overflow: auto;
+    display: none;
+
+}
+#talkImpressão{
+    position: fixed;
+    place-content: center;
+    margin-left: 400px;
+    width: 390px;
+    padding:30px 40px 30px 40px;
+    height: 400px;
+    background-color: #251F54;
+    color: #FFFFFF;
+    z-index: 4;
+    margin-top: -250px;
+    font-family:PTSans;
+    align-items: center;
+    overflow: auto;
+    display: none;
+
+}
+#workshopArduinoInfo{
+    position: fixed;
+    place-content: center;
+    margin-left: 400px;
+    width: 390px;
+    padding:30px 40px 30px 40px;
+    height: 400px;
+    background-color: #251F54;
+    color: #FFFFFF;
+    z-index: 4;
+    margin-top: -250px;
+    font-family:PTSans;
+    align-items: center;
+    overflow: auto;
+    display: none;
+
+}
+#workshopDeloitteInfo{
+    position: fixed;
+    place-content: center;
+    margin-left: 400px;
+    width: 390px;
+    padding:30px 40px 30px 40px;
+    height: 400px;
+    background-color: #251F54;
+    color: #FFFFFF;
+    z-index: 4;
+    margin-top: -250px;
+    font-family:PTSans;
+    align-items: center;
+    overflow: auto;
+    display: none;
+}
+#workshopOutsystemInfo{
+    position: fixed;
+    place-content: center;
+    margin-left: 400px;
+    width: 390px;
+    padding:30px 40px 30px 40px;
+    height: 400px;
+    background-color: #251F54;
+    color: #FFFFFF;
+    z-index: 4;
+    margin-top: -250px;
+    font-family:PTSans;
+    align-items: center;
+    overflow: auto;
+    display: none;
+}
+
+#workshopSunsetInfo{
+    position: fixed;
+    place-content: center;
+    margin-left: 400px;
+    width: 390px;
+    padding:30px 40px 30px 40px;
+    height: 400px;
+    background-color: #251F54;
+    color: #FFFFFF;
+    z-index: 4;
+    margin-top: -250px;
+    font-family:PTSans;
+    align-items: center;
+    overflow: auto;
+    display: none;
+}
+#pichtSkylineInfo{
+    position: fixed;
+    place-content: center;
+    margin-left: 400px;
+    width: 390px;
+    padding:30px 40px 30px 40px;
+    height: 400px;
+    background-color: #251F54;
+    color: #FFFFFF;
+    z-index: 4;
+    margin-top: -250px;
+    font-family:PTSans;
+    align-items: center;
+    overflow: auto;
+    display: none;
+}
+
+#pichtCriticalInfo{
+    position: fixed;
+    place-content: center;
+    margin-left: 400px;
+    width: 390px;
+    padding:30px 40px 30px 40px;
+    height: 400px;
+    background-color: #251F54;
+    color: #FFFFFF;
+    z-index: 4;
+    margin-top: -250px;
+    font-family:PTSans;
+    align-items: center;
+    overflow: auto;
+    display: none;
+}
+
+#talkCriticalInfo, #talkCompanyOutSystemsInfo, #talkSkylineInfo,
+#talkInnowaveInfo,#talkMartiferInfo, #talkBorgWarnerInfo, #talkStratioInfo{
+    position: fixed;
+    place-content: center;
+    margin-left: 400px;
+    width: 390px;
+    padding:30px 40px 30px 40px;
+    height: 400px;
+    background-color: #251F54;
+    color: #FFFFFF;
+    z-index: 4;
+    margin-top: -250px;
+    font-family:PTSans;
+    align-items: center;
+    overflow: auto;
+    display: none;
+}
+.breveLink{
+    font-size: 12px;
+    color: #53C4F1;
+    font-family: PTSans;
+}
+
+
+
 .titulo{
     font-size: 20px;
 }
@@ -1405,12 +1616,18 @@ opacity: 0.8;
 strong{
     font-family: PTSansBold;
 }
-#workshopMercedesInfo span{
-    margin-left: 360px;
+span{
+    position: fixed;
+}
+#talkMartiferInfo span,#pichtCriticalInfo span, #pichtSkylineInfo span,#workshopSunsetInfo span,#workshopOutsystemInfo span,#workshopDeloitteInfo span, #workshopArduinoInfo span,#talkImpressão span, #caseStudyInfo span, #workshopRoboticaInfo span,#workshopMercedesInfo span, #firtsHandInvestigationInfo span,
+#talkCriticalInfo span, #talkCompanyOutSystemsInfo span, #talkSkylineInfo span,
+#talkInnowaveInfo span, #talkBorgWarnerInfo span, #talkStratioInfo span{
+    margin-left: 390px;
+    margin-top: -5px;
 }
 
 .closebtn{
-    margin-left:230px;
+    margin-left: 230px;
 }
 .alertText{
     margin-top: 65px;
@@ -1495,7 +1712,8 @@ strong{
     margin-top: 295px;
     color: #53C4F1;
     opacity: 1;
-}.spaceBlanck19{
+}
+.spaceBlanck19{
     width: 150px;
     height: 150px;
     background-color: #251F54;
@@ -1831,13 +2049,22 @@ strong{
     width: 430px;
     height: 150px;
     background-color: #CF0967 ;
-    color: #53C4F1;
+    color: #FFFFFF;
     display: grid;
     align-items: center;
     margin-top: 750px;
     padding-left: 20px;
     opacity: 0.8;
+}
 
+.sunset:hover{
+    width: 440px;
+    height: 160px;
+    margin-top: 745px;
+    margin-left: 595px;
+    color: #53C4F1;
+    z-index: 2;
+    opacity: 1;
 }
 
 

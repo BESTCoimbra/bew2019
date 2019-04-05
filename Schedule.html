@@ -108,40 +108,42 @@
         <div class="scheduleActivities">
             <div onclick="showJobFairInfo()" class="actJobFair"><h2>job<br>fair</h2></div>
 
-            <div onclick="showAlert()" class="actFirstHandInvestigation"><strong>first hand investigation</strong><p class="descriptionFirstHand">determinação do poder calorífico de lamas de ETAR urbanas</p></div>
+            <div onclick="showFirstHandInvestigationInfo()" class="actFirstHandInvestigation"><strong>first hand investigation</strong><p class="descriptionFirstHand">determinação do poder calorífico de lamas de ETAR urbanas</p></div>
 
-            <div onclick="showAlert()" class="actWorkshopArduino"><p class="descriptionArduino"><strong>workshop</strong><br>Arduino</p></div>
-            <div onclick="showAlert()" class="actWorkshopDelloite"><p class="descriptionArduino"><strong>workshop</strong><br>Deloitte -> CV</p></div>
-            <div onclick="showAlert()" class="actWorkshopOutsytem"><h2>workshop</h2><h2 class="descriptionAct2">OutSystems</h2></div>
-            <div onclick="showAlert()" class="actCaseStudy"><h2>case<br>study</h2><h2 class="descriptionAct">Bi-Silque</h2></div></div>
-        <div onclick="showAlert()" class="actPitch"><strong>pitch</strong></div>
-        <div onclick="showAlert()" class="pitchSkyline"><p>Skyline</p> </div>
+            <div onclick="showWorkArduino()" class="actWorkshopArduino"><p class="descriptionArduino"><strong>workshop</strong><br>Arduino</p></div>
+            <div onclick="showWorkDeloitte()" class="actWorkshopDelloite"><p class="descriptionArduino"><strong>workshop</strong><br>Deloitte -> CV</p></div>
+            <div onclick="showWorkOutSystems()" class="actWorkshopOutsytem"><h2>workshop</h2><h2 class="descriptionAct2">OutSystems</h2></div>
+            <div onclick="showWorkshopCaseStudyInfo()" class="actCaseStudy"><h2>case<br>study</h2><h2 class="descriptionAct">Bi-Silque</h2></div></div>
+        <div class="actPitch"><strong>pitch</strong></div>
+        <div onclick="showPichtSkylineInfo()" class="pitchSkyline"><p>Skyline</p> </div>
         <div onclick="showAlert()" class="pitchCriticalSoftware"><p>Critical Software</p> </div>
 
 
         <div class="companyTalkLateral"><strong>company talk</strong> </div>
 
-        <div onclick="showAlert()" class="companyTalkCriticalSoftware"><p>Critical Software</p> </div>
-        <div onclick="showAlert()" class="companyTalkMartifer"><p>Martifer</p> </div>
-        <div onclick="showAlert()" class="companyTalkSkyline"><p>Skyline</p> </div>
-        <div onclick="showAlert()" class="companyTalkOutSystem"><p>OutSystems</p> </div>
-        <div onclick="showAlert()" class="companyTalkInnowave"><p>Innowave</p> </div>
-        <div onclick="showAlert()" class="companyTalkBorgWarner"><p>BorgWarner</p> </div>
-        <div onclick="showAlert()" class="companyTalkStratioAutomotive"><p id="descriptionStratio">Stratio Automotive</p> </div>
+        <div onclick="showtalkCriticalInfo()" class="companyTalkCriticalSoftware"><p>Critical Software</p> </div>
+        <div onclick="showtalkMartiferInfo()" class="companyTalkMartifer"><p>Martifer</p> </div>
+        <div onclick="showtalkSkylineInfo()" class="companyTalkSkyline"><p>Skyline</p> </div>
+        <div onclick="showtalkOutSystemsInfo()" class="companyTalkOutSystem"><p>OutSystems</p> </div>
+        <div onclick="showtalkInowaveInfo()" class="companyTalkInnowave"><p>Innowave</p> </div>
+        <div onclick="showtalkBorgWanerInfo()" class="companyTalkBorgWarner"><p>BorgWarner</p> </div>
+        <div onclick="showtalkStratioInfo()" class="companyTalkStratioAutomotive"><p id="descriptionStratio">Stratio Automotive</p> </div>
 
         <div onclick="showWorkMercedesInfo()" class="actWorkshop"><h2>workshop</h2><h2 class="descriptionAct5">Mercedes-Benz.io -> Introdução a Web Components</h2></div>
 
-        <div onclick="showAlert()" class="actWorkshopRobotica"><h2>workshop</h2><p class="descriptionAct4">Nova geração 5G (na robótica)</p></div>
+        <div onclick="showWorkshopRoboticaInfo()" class="actWorkshopRobotica"><h2>workshop</h2><p class="descriptionAct4">Nova geração 5G (na robótica)</p></div>
 
 
 
-        <div onclick="showAlert()" class="actDynamicTalk"><h2>talk</h2><h2 class="descriptionAct3">impressão 3D: um desafio da engenharia</h2></div>
+        <div onclick="showTalkImpressao()" class="actDynamicTalk"><h2>talk</h2><h2 class="descriptionAct3">impressão 3D: um desafio da engenharia</h2></div>
 
-        <div class="sunset"><h2>sunset</h2></div>
+        <div onclick="showSunsetInfo()" class="sunset"><h2>sunset</h2></div>
+
         <div id="subscriptionBox">
             <span class="closebtn"><strong>x</strong></span><br>
             <p class="alertText"><strong>Desculpe,</strong><br><br>mais informações brevemente.</p>
         </div>
+
         <div id="jobFairInfo">
             <span class="closebtn"><strong>x</strong></span><br>
             <strong><br>Job Fair</strong>
@@ -149,22 +151,396 @@
                 Empresas confirmadas: Critical Software; BOLD International; BorgWarner; Martifer; Delloite; Skyline; Technip; Navigator; Innowave; Stratio Automotive.
             </p>
         </div>
+        <div id="workshopRoboticaInfo">
+            <span class="closebtn"><strong>x</strong></span><br>
+            <p class="praticInfo"><strong>sala: </strong> A5.1 - DEI<br><strong>horas:</strong> 11h - 12h<br>
+                <strong>máximo de inscrições:</strong> 30 pessoas <br>
+                <br></p>
+            <br>
+            <strong class="titulo">First Hand <br>Investigation<br></strong>
+            <p class="requesitos"><br><strong>Requisitos:
+                <br> A tua presença.</strong></p>
+            <strong><br>+ Info</strong>
+            <p>5G uma tecnologia disruptiva para a robótica e automação do futuro.</p>
+        </div>
+
+
+         <div id="caseStudyInfo">
+             <span class="closebtn"><strong>x</strong></span><br>
+             <p class="praticInfo"><strong>sala: </strong> T6.4 - DEEEC<br><strong>horas:</strong> 14h - 18h15<br>
+                 <strong>máximo de inscrições:</strong> 10 pessoas <br>
+                 <br></p>
+             <br>
+             <strong class="titulo">Case Study</strong><strong><br>by Bi-Silque<br></strong>
+             <p class="requesitos"><br><strong>Requisitos:
+                 <br> A tua presença.</strong></p>
+             <strong><br>+ Info</strong>
+             <p>
+                 A Bi-Silque, fundada em 1979, é uma empresa criada por um casal empreendedor numa garagem em Esmoriz. A paixão por criar aplicações novas e inovadoras com cortiça, tanto para a casa como para o escritório, transformou este pequeno negócio numa empresa multinacional que continua em constante crescimento.
+                  <br><br>Esta ideia criativa, pensada há 40 anos, resultou numa fusão única de design e funcionalidade que é evidente em todos os produtos que esta empresa fabrica hoje em dia.
+                  <br><br>Líder global em fabrico e distribuição de produtos de comunicação visual, a Bi-Silque está sediada em Portugal onde fabrica e exporta uma ampla seleção de produtos sob as marcas Bi-Office, Bi-Bright e MasterVision para mais de 80 países em 5 continentes.
+                  <br><br>Para além de se focar na inovação, têm como objetivo ser líder também na sustentabilidade e é por essa razão que vão estar presentes.
+
+             </p>
+         </div>
+
+          <div id="talkImpressão">
+              <span class="closebtn"><strong>x</strong></span><br>
+              <p class="praticInfo"><strong>sala: </strong> (a definir)<br><strong>horas:</strong> 16h - 18h<br>
+                  <strong>máximo de inscrições:</strong> 15 pessoas <br>
+                  <br></p>
+              <br>
+              <strong class="titulo">Talk: impressão 3D <br>um desafio da engenharia<br></strong>
+              <p class="requesitos"><br><strong>Requisitos:
+                  <br> A tua presença.</strong></p>
+              <strong><br>+ Info</strong>
+              <p><strong>orador:</strong>prof. Joaquim Norberto</p>
+            
+          </div>
+
+         <div id="talkImpressão">
+             <span class="closebtn"><strong>x</strong></span><br>
+             <p class="praticInfo"><strong>sala: </strong> (a definir)<br><strong>horas:</strong> 16h - 18h<br>
+                 <strong>máximo de inscrições:</strong> 15 pessoas <br>
+                 <br></p>
+             <br>
+             <strong class="titulo">Talk: impressão 3D <br>um desafio da engenharia<br></strong>
+             <p class="requesitos"><br><strong>Requisitos:
+                 <br> A tua presença.</strong></p>
+             <strong><br>+ Info</strong>
+             <p><strong>orador:</strong>prof. Joaquim Norberto</p>
+
+         </div>
+
+
+         <div id="workshopArduinoInfo">
+             <span class="closebtn"><strong>x</strong></span><br>
+             <p class="praticInfo"><strong>sala: </strong> T6.4 - DEEEC<br><strong>horas:</strong> 11h - 13h<br>
+                 <strong>máximo de inscrições:</strong> 30 pessoas <br>
+                 <br></p>
+             <br>
+             <strong class="titulo">Workshop<br>Arduino <br></strong>
+             <p class="requesitos"><br><strong>Requisitos: <br>
+                 <br> MatLab instalado no teu portátil.</strong></p>
+             <strong><br>+ Info</strong>
+             <p>
+                 <strong>orador: </strong> prof. Joaquim Norberto<br> <br>
+                 Conceitos básicos sobre Arduino. Exemplo prático usando uma mão robótica.
+             </p>
+         </div>
+
+
+         <div id="workshopDeloitteInfo">
+             <span class="closebtn"><strong>x</strong></span><br>
+             <p class="praticInfo"><strong>sala: </strong> A5.2 - DEI<br><strong>horas:</strong> 10h - 13h<br>
+                 <strong>máximo de inscrições:</strong> 30 pessoas <br>
+                 <br></p>
+             <br>
+             <strong class="titulo">Workshop Deloitte<br> Curriculum Vitae <br></strong>
+             <p class="requesitos"><br><strong>Requisitos: <br>
+                 <br>Dados sobre ti.</strong></p>
+             <strong><br>+ Info</strong>
+             <p>
+                 <strong>orador: </strong> prof. Susana Prudência<br> <br>
+                "How to boost your CV"
+             </p>
+         </div>
+
+         <div id="workshopOutsystemInfo">
+             <span class="closebtn"><strong>x</strong></span><br>
+             <p class="praticInfo"><strong>sala: </strong> A5.1 - DEI<br><strong>horas:</strong> 16h - 18h<br>
+                 <strong>máximo de inscrições:</strong> 30 pessoas <br>
+                 <br></p>
+             <br>
+             <strong class="titulo">Desenvolvimento de aplicativos rápidos para dispositivos móveis e Web com o OutSystems<br></strong>
+             <p class="requesitos"><br><strong>Requisitos: <br>
+                 <br>
+                      Setup OS Workshop - o que precisam de instalar para conseguir realizar o workshop (MUITO IMPORTANTE)
+                      <a class="breveLink" href="https://drive.google.com/file/d/1pivuQCoPKQu48HSjxZaJmx449LljRhBC/view">disponivel aqui!</a>
+                        <br><br> Build a Mobile App - script para desenvolverem a aplicação
+                      <br><a class="breveLink" href="https://drive.google.com/file/d/1j7xROOqy4f8tHLNUSkoPWGScVNJwDnbd/view">disponivel aqui!</a>
+
+                      <br><br>  Resources - recursos necessários para desenvolverem a aplicação
+                      <br><a class="breveLink" href="https://drive.google.com/file/d/1HyThi0WyQ_BnC_rMQNY3JNtDgxg6wOpL/view?usp=sharing">disponivel aqui!</a>
+
+
+             </strong></p>
+             <strong><br>+ Info</strong>
+             <p>
+                 OutSystems é uma plataforma de desenvolvimento rápido de aplicativos que permite desenvolver visualmente seus aplicativos móveis e da Web de maneira visual.
+                 Criado por engenheiros com uma atenção obsessiva aos detalhes, todos os aspectos da nossa plataforma foram desenvolvidos para te ajudar a criar e fornecer aplicativos melhores com mais rapidez.
+                 Junta-te a nós se quiseres entender o que fazemos e como fazemos!
+             </p>
+         </div>
+
+            <div id="LunchInfo">
+                <span class="closebtn"><strong>x</strong></span><br><br><br>
+                <p class="lunch"><strong>local: </strong> Casa da Pedra<br></p>
+                <p>Oportunidade de almoçares com empresas. Tudo o que tens de fazer é aparecer e pagar a tua própria. Done
+
+                </p>
+            </div>
+
+          <div id="workshopSunsetInfo">
+              <span class="closebtn"><strong>x</strong></span><br>
+              <p class="praticInfo"><strong>sala: </strong> T4.4 e jardim entre a torre T e S - DEEEC<br><strong>horas:</strong> 16h - 22h<br>
+                  <br></p>
+              <br>
+              <strong class="titulo">Sunset <br></strong>
+              <p class="requesitos"><br><strong>Requisitos: <br>
+                  <br>Se participares em alguma actividade da BEW estás imediatamente convidado para o nosso sunset.</strong></p>
+              <strong><br>+ Info</strong>
+              <p>
+               Neste final de tarde, temos preparado para ti um sunset e com ele, música, comida, bebida e muito boa disposição. É o local perfeito para descontraires com os
+                  restantes partcipantes, organizadores e com as empresas que ficarem para o final.
+
+              </p>
+          </div>
+
+          <div id="talkMartiferInfo">
+              <span class="closebtn"><strong>x</strong></span><br>
+              <p class="praticInfo"><strong>sala: </strong> A5.2 - DEI<br><strong>horas:</strong> 11h30 - 12h<br>
+                  <strong>máximo de inscrições:</strong> ilimitadas <br>
+                  <br></p>
+              <br>
+              <strong class="titulo">Talk<br>Martifer<br></strong>
+              <p class="requesitos"><br><strong>Requisitos: <br>
+                  <br>A tua presença.</strong></p>
+              <strong><br>+ Info</strong>
+              <p>
+
+
+                  <strong>Tema:</strong> PONTE ABI BAKR 
+                  <br>
+                  Situada no centro de Riade, no cruzamento de duas das principais avenidas, a Iman Saud e a Abi Bakr, esta ponte tem 10 metros de altura, 29 metros de largura e 326 metros de comprimento, constituídos por 7 vãos.
+                  A montagem da estrutura principal decorreu em apenas 3 meses. A Martifer foi distinguida pela Portugal Steel com o “Prémio Nacional Portugal Bridges Awards 2018” pela sua participação neste projeto.
+                  <br><br>
+                  <strong>LOCALIZAÇÃO:</strong> Riade, Arábia Saudita
+                  <br><strong>ANO:</strong> 2017
+                  <br><strong>DONO DE OBRA:</strong> ADA – Arriyadh Development Authority
+                  <br><strong>CLIENTE:</strong> Yuksel LLC (Al Riyadh Development Authority).
+                  <br><strong>PESO:</strong> 3 500 t
+                  <br><strong>INTERVENÇÃO:</strong> Fornecimento, fabrico, pintura, transporte e montagem da estrutura metálica e chapa colaborante.
+                  <br>
+                  <a class="breveLink" href="http://www.martifer.pt/pt/portfolio/detalhes.php?sec=1&tipo=1&id=393">
+                      mais info...
+                  </a>
+                  <br><br>
+                  <strong>Orador:</strong><br>
+                  António Manuel de Matos da Silva, natural do Barreiro, em 15 de dezembro de 1973. Engenheiro Civil, licenciado pela Faculdade de Ciências e Tecnologia da Universidade De Coimbra em 1998.
+                  Especialista em estruturas metálicas de elevada complexidade, em especial no que diz respeito a projeto de estruturas metálicas e mistas, projeto de detalhe de ligações, projeto de faseamento construtivo, materiais, tecnologia de soldadura, tecnologia de proteção anticorrosiva, tecnologia de proteção ao fogo, processos de fabrico, processos de montagem; especialista em engenharia de fachadas, nomeadamente, projeto de estruturas em vidro e projeto em alumínio.
+
+
+              </p></div>
+
+
+
+
+
+            <div id="pichtSkylineInfo">
+                <span class="closebtn"><strong>x</strong></span><br>
+                <p class="praticInfo"><strong>sala: </strong> A5.2 - DEI<br><strong>horas:</strong> 11h30 - 12h<br>
+                    <strong>máximo de inscrições:</strong> ilimitadas <br>
+                    <br></p>
+                <br>
+                <strong class="titulo">Pitch<br>Skyline <br></strong>
+                <p class="requesitos"><br><strong>Requisitos: <br>
+                    <br>A tua presença.</strong></p>
+                <strong><br>+ Info</strong>
+                <p>
+                   Areas of interest for recruitment: We are interested in recruiting students/young graduates from the courses of: Engenharia Electrotécnica e Computadores, Engenharia Informática and Engenharia de Software.
+                   <br><br>We are available to accept students from the above mentioned courses to have their summer internships at Skyline PT office.
+                </p>
+            </div>
+           <div id="pichtCriticalInfo">
+               <span class="closebtn"><strong>x</strong></span><br>
+               <p class="praticInfo"><strong>sala: </strong> A5.2 - DEI<br><strong>horas:</strong> 12h00 - 12h30<br>
+                   <strong>máximo de inscrições:</strong> ilimitadas <br>
+                   <br></p>
+               <br>
+               <strong class="titulo">Pitch<br>Skyline <br></strong>
+               <p class="requesitos"><br><strong>Requisitos: <br>
+                   <br>A tua presença.</strong></p>
+               <strong><br></strong>
+               <strong><br>+ Info</strong>
+               <p>Em breve...
+              </p>
+          </div>
+
+          <div id="talkCriticalInfo">
+              <span class="closebtn"><strong>x</strong></span><br>
+              <p class="praticInfo"><strong>sala: </strong> Tenda onde decorre a feira<br><strong>horas:</strong> 14h30 - 15h<br>
+                  <strong>máximo de inscrições:</strong> ilimitadas <br>
+                  <br></p>
+              <br>
+              <strong class="titulo">Company Talk<br>Critical Software <br></strong>
+              <p class="requesitos"><br><strong>Requisitos: <br>
+                  <br>A tua presença.</strong></p>
+              <strong><br></strong>
+              <strong><br>+ Info</strong>
+              <p>Em breve...
+             </p>
+
+         </div>
+        <div id="talkCompanyOutSystemsInfo">
+            <span class="closebtn"><strong>x</strong></span><br>
+            <p class="praticInfo"><strong>sala: </strong> Tenda onde decorre a feira<br><strong>horas:</strong> 15h - 15h30<br>
+                <strong>máximo de inscrições:</strong> ilimitadas <br>
+                <br></p>
+            <br>
+            <strong class="titulo">Company Talk<br>OutSystems <br></strong>
+            <p class="requesitos"><br><strong>Requisitos: <br>
+                <br>A tua presença.</strong></p>
+            <strong><br></strong>
+            <strong><br>+ Info</strong>
+
+            <p>
+                <strong>Título:</strong>
+                <br> Desenvolvimento de aplicativos rápidos para dispositivos móveis e Web com o OutSystems
+               <br><br>
+                <strong>Descrição:</strong><br>
+                A OutSystems é a plataforma número um de low-code para o rápido desenvolvimento de aplicativos.
+                Engenheiros dedicados criam todos os detalhes da plataforma para ajudar as organizações na sua transformação digital, revolucionando a forma como os seus negócios são feitos no futuro.
+                Com escritórios em todo o mundo, a OutSystems foi nomeada Top Employer pela Forbes por três anos consecutivos. Se queres saber mais sobre como é trabalhar na OutSystems, junta-te a nós nesta sessão!
+                <br><br>
+                <strong>Oradores:</strong><br>
+                Dinis Carvalho (Team Lead, SW Engineering) <br>
+                “Dinis is an exiled designer who found refuge in programming mobile games and applications. Product design and development are his passions. As an end user, and avid gamer, he's always thinking about how things work behind the screen. He's spent thousands of hours gaming. He enjoys peeling away the layers, discovering the secrets behind a game and its development, sparking many ideas that were materialized in OutSystems R&D.”
+                <br><br>
+                Mariana Cabeda (Associate SW Engineer)
+                <br><br>
+                “Mariana is very passionate about the projects she commits to. From the user experience to the intricate backend details, she loves to be involved in every step of the development of a product feature. She has found her place at OutSystems R&D full of ideas and excitement about the new things to be discovered and delivered to our users”
+            </p>
+        </div>
+
+
+
+
+
+
+
+          <div id="talkSkylineInfo">
+              <span class="closebtn"><strong>x</strong></span><br>
+              <p class="praticInfo"><strong>sala: </strong> Tenda onde decorre a feira<br><strong>horas:</strong> 15h30 - 16h<br>
+                  <strong>máximo de inscrições:</strong> ilimitadas <br>
+                  <br></p>
+              <br>
+              <strong class="titulo">Company Talk<br>Skyline <br></strong>
+              <p class="requesitos"><br><strong>Requisitos: <br>
+                  <br>A tua presença.</strong></p>
+              <strong><br></strong>
+              <strong><br>+ Info</strong>
+              <p>
+                  <strong>Company presentation:</strong>
+               <br> At Skyline Communications everything revolves around innovation. The company continuously invests in software research and development, striving to make more intelligent software applications, to assist its customers in driving down their operational cost while increasing the quality of their services.
+                <br>Skyline Communications is a fully independent corporation with no potential conflicting activities. Our new low-energy head office respects the environment and reflects our vision on sustainable responsible business.
+               <br><br>
+                  <strong>Presenter: </strong>
+                <br>Ricardo is currently the System Development Manager of Skyline Communications for Portugal.
+                <br>In Skyline he has been responsible for the main cloud-based developments, including virtualization, containers and Software Defined Networks (SDNs), through the proprietary solution SRM – Service and Resource Management.
+
+             </p>
+
+         </div>
+           <div id="talkInnowaveInfo">
+               <span class="closebtn"><strong>x</strong></span><br>
+               <p class="praticInfo"><strong>sala: </strong> Tenda onde decorre a feira<br><strong>horas:</strong> 16h - 16h30<br>
+                   <strong>máximo de inscrições:</strong> ilimitadas <br>
+                   <br></p>
+               <br>
+               <strong class="titulo">Company Talk<br> Innowave <br></strong>
+               <p class="requesitos"><br><strong>Requisitos: <br>
+                   <br>A tua presença.</strong></p>
+               <strong><br></strong>
+               <strong><br>+ Info</strong>
+               <p>
+
+                 <strong> Tema:</strong> <br>
+                  Apresentação da InnoWave, enquanto empresa, da progressão de carreira dos seus colaboradores e do seu enquadramento tecnológico.
+                          <br><br>
+                   <strong>Orador:</strong><br>
+                  Philip Santos (Company Talk) – Technical Account Manager na InnoWave, responsável pelo escritório em Coimbra.
+
+              </p>
+
+          </div>
+         <div id="talkBorgWarnerInfo">
+             <span class="closebtn"><strong>x</strong></span><br>                                                                     
+             <p class="praticInfo"><strong>sala: </strong> Tenda onde decorre a feira<br><strong>horas:</strong> 16h30 - 17h<br>
+                 <strong>máximo de inscrições:</strong> ilimitadas <br>                                                               
+                 <br></p>                                                                                                             
+             <br>                                                                                                                     
+             <strong class="titulo">Company Talk<br>BorgWarner <br></strong>
+             <p class="requesitos"><br><strong>Requisitos: <br>                                                                       
+                 <br>A tua presença.</strong></p>                                                                                     
+             <strong><br></strong>                                                                                                    
+             <strong><br>+ Info</strong>                                                                                              
+             <p>
+                 <strong>Tema:</strong><br>
+                 Apresentação sobre a empresa e aplicações EGR na Indústria Automóvel.
+                 <br><br>
+                 <strong>Descrição:</strong><br>
+                A BorgWarner é um fornecedor mundial de componentes e peças para a indústria automóvel. Está presente em 19 países e conta com mais de 30 000 trabalhadores por todo o mundo.
+               <br> A sua visão, aquilo que ambicionam, é “a clean, energy-efficient world” e conseguem-no com as suas tecnologias inovadoras para veículos de combustão, híbridos e elétricos.
+                <br><br>
+
+                 <strong>Orador company talk:</strong> Rui Natividade – Product Line Manager
+                 
+            </p>                                                                                                                      
+                                                                                                                                      
+        </div>
+         <div id="talkStratioInfo">
+             <span class="closebtn"><strong>x</strong></span><br>                                                                     
+             <p class="praticInfo"><strong>sala: </strong> Tenda onde decorre a feira<br><strong>horas:</strong> 17h30 - 18h<br>
+                 <strong>máximo de inscrições:</strong> ilimitadas <br>                                                               
+                 <br></p>                                                                                                             
+             <br>                                                                                                                     
+             <strong class="titulo">Company Talk<br>Critical Software <br></strong>                                                   
+             <p class="requesitos"><br><strong>Requisitos: <br>                                                                       
+                 <br>A tua presença.</strong></p>                                                                                     
+             <strong><br></strong>                                                                                                    
+             <strong><br>+ Info</strong>                                                                                              
+             <p>Em breve...                                                                                                           
+            </p>                                                                                                                      
+                                                                                                                                      
+        </div>                                                                                                                        
+                                                                                                                                      
+
+
+        <div id="firtsHandInvestigationInfo">
+            <span class="closebtn"><strong>x</strong></span><br>
+            <p class="praticInfo"><strong>sala: </strong> ? - DEM<br><strong>horas:</strong> 14h - 15h | 15h - 16h<br>
+                <strong>máximo de inscrições:</strong> 14 pessoas <br>
+            <br></p>
+            <br>
+            <strong class="titulo">First Hand <br>Investigation<br></strong>
+            <p class="requesitos"><br><strong>Requisitos:
+                <br> A tua presença.</strong></p>
+            <strong><br>+ Info</strong>
+            <p>
+                <strong>Tema:</strong> determinação do poder calorífico (conteúdo energético) de lamas de ETAR urbanas com vista à sua valorização energética
+                <strong>Objectivo:</strong> Alunos tenham contacto com a técnica usada para a determinação do poder calorífico dos materiais (hoje em dia cada vez mais diversos e muitas das vezes resíduos) que podem ser valorizados energeticamente.</p>
+        </div>
+
+
         <div id="workshopMercedesInfo">
             <span class="closebtn"><strong>x</strong></span><br>
 
             <p class="praticInfo"><strong>sala: </strong>A5.1 - DEI<br><strong>horas:</strong> 11h - 13h <br>
                 <strong>máximo de inscrições:</strong> 30 pessoas</p>
 
-            <strong class="titulo"><br>Introdução a Web<br> Components <br></strong>
+            <strong class="titulo"><br>Introdução a Web<br> Components</strong>
 
-            <p class="requesitos"><strong>Requisitos
+            <p class="requesitos"><br><strong>Requisitos:
             <br>
             •    Conta GitHub
             <br>
             •    Conhecimentos básicos HTML, CSS e JS
             <br>
-            •    Computador com browser (Chrome ou Firefox)</strong></p>
+            •    Computador com browser (Chrome ou Firefox)</strong>
+            </p>
 
+            <strong><br>+ Info</strong>
             <p>Nos dias de hoje, com a constante e rápida evolução das tecnologias utilizadas em
                 desenvolvimento Frontend sente-se cada vez mais que estamos constantemente a reinventar
                 a roda. Estamos a resolver os mesmo problema de acordo com o use-case, projecto ou mesmo
@@ -173,7 +549,7 @@
                 <br>
                 <br>
                 Nesta introdução a Web Components vamos:
-                <br>
+                <br><br>
                 1. Identificar os problemas existentes no desenvolvimento Frontend na utilização de frameworks
                 <br><br>
                 2. Perceber o que são  Web Components e qual o seu objectivo
@@ -214,7 +590,7 @@
             <div class="spaceBlanckLunch03"></div>
             <div class="spaceBlanckLunch06"></div>
 
-        <div class="spaceBlanckLunch04" onclick="showAlert()"><h2>almoço de networking <br>com empresas</h2></div>
+        <div class="spaceBlanckLunch04" onclick="showLunchInfo()"><h2>almoço de networking <br>com empresas</h2></div>
 
     </div>
 

@@ -77,4 +77,110 @@ function showWorkMercedesInfo() {
     infoWorkshopMercedes.style.display="unset";
 
 }
+let infoFirstHandInvestigation= document.getElementById("firtsHandInvestigationInfo");
+function showFirstHandInvestigationInfo() {
+    infoFirstHandInvestigation.style.opacity="1";
+    infoFirstHandInvestigation.style.display="unset";
 
+}
+let infoWorkRobotica= document.getElementById("workshopRoboticaInfo");
+function showWorkshopRoboticaInfo() {
+    infoWorkRobotica.style.opacity="1";
+    infoWorkRobotica.style.display="unset";
+
+}
+let infoWorkCaseStudy= document.getElementById("caseStudyInfo");
+function showWorkshopCaseStudyInfo() {
+    infoWorkCaseStudy.style.opacity="1";
+    infoWorkCaseStudy.style.display="unset";
+
+}
+
+let infoWorkTalkImpressao= document.getElementById("talkImpressão");
+function showTalkImpressao() {
+    infoWorkTalkImpressao.style.opacity="1";
+    infoWorkTalkImpressao.style.display="unset";
+
+}
+
+let infoWorkArduino= document.getElementById("workshopArduinoInfo");
+function showWorkArduino() {
+    infoWorkArduino.style.opacity="1";
+    infoWorkArduino.style.display="unset";
+
+}
+
+let infoWorkDeloitte= document.getElementById("workshopDeloitteInfo");
+function showWorkDeloitte() {
+    infoWorkDeloitte.style.opacity="1";
+    infoWorkDeloitte.style.display="unset";
+
+}
+
+let infoWorkOutSystem = document.getElementById("workshopOutsystemInfo");
+function showWorkOutSystems() {
+    infoWorkOutSystem.style.opacity="1";
+    infoWorkOutSystem.style.display="unset";
+
+}
+
+let infoSunset = document.getElementById("workshopSunsetInfo");
+function showSunsetInfo() {
+    infoSunset.style.opacity="1";
+    infoSunset.style.display="unset";
+
+}
+
+let infoPitchSkyline = document.getElementById("pichtSkylineInfo");
+function showPichtSkylineInfo() {
+    infoPitchSkyline.style.opacity="1";
+    infoPitchSkyline.style.display="unset";
+}
+
+let infoTalkCritical = document.getElementById("talkCriticalInfo");
+function showtalkCriticalInfo() {
+    infoTalkCritical.style.opacity="1";
+    infoTalkCritical.style.display="unset";
+}
+
+let infoTalkOutSystem = document.getElementById("talkCompanyOutSystemsInfo");
+function showtalkOutSystemsInfo() {
+    infoTalkOutSystem.style.opacity="1";
+    infoTalkOutSystem.style.display="unset";
+}
+
+let infoTalkSkyline = document.getElementById("talkSkylineInfo");
+function showtalkSkylineInfo() {
+    infoTalkOutSystem.style.opacity="1";
+    infoTalkOutSystem.style.display="unset";
+}
+
+let infoTalkInnowave = document.getElementById("talkInnowaveInfo");
+function showtalkInowaveInfo() {
+    infoTalkInnowave.style.opacity="1";
+    infoTalkInnowave.style.display="unset";
+}
+
+let infoTalkBorgWarner = document.getElementById("talkBorgWarnerInfo");
+function showtalkBorgWanerInfo() {
+    infoTalkBorgWarner.style.opacity="1";
+    infoTalkBorgWarner.style.display="unset";
+}
+
+let infoTalkStratio = document.getElementById("talkStratioInfo");
+function showtalkStratioInfo() {
+    infoTalkStratio.style.opacity="1";
+    infoTalkStratio.style.display="unset";
+}
+
+let infoTalkMartifer = document.getElementById("talkMartiferInfo");
+function showtalkMartiferInfo() {
+    infoTalkMartifer.style.opacity="1";
+    infoTalkMartifer.style.display="unset";
+}
+
+let infoLunch = document.getElementById("LunchInfo");
+function showLunchInfo() {
+    infoLunch.style.opacity="1";
+    infoLunch.style.display="unset";
+}
