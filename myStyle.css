@@ -2394,7 +2394,22 @@ span{
     color: #53C4F1;
     z-index: 3;
     opacity: 1;
+}
+.actWorkshopCritical:hover{
+    width: 140px;
+    height: 160px;
+    margin-left: 445px;
+    margin-top: 595px;
+    color: #53C4F1;
+    z-index: 3;
+    opacity: 1;
 
+}
+.actWorkshopCritical h2:first-child{
+    margin-top: 20px;
+}
+.actWorkshopCritical h2:last-child{
+    margin-top: -20px;
 }
 .actWorkshopOutsytem{
     position: absolute;
@@ -2408,6 +2423,19 @@ span{
     align-items: center;
     margin-top: 600px;
     opacity: 0.87;
+}
+.actWorkshopCritical{
+    position: absolute;
+    margin-left: 450px;
+    width: 130px;
+    height: 150px;
+    background-color: #CF0967;
+    color: #FFFFFF;
+    padding-left: 20px;
+    display: grid;
+    align-items: center;
+    margin-top: 600px;
+    opacity: 0.76;
 }
 
 .actDynamicTalk:hover{
