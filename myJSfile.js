@@ -151,8 +151,8 @@ function showtalkOutSystemsInfo() {
 
 let infoTalkSkyline = document.getElementById("talkSkylineInfo");
 function showtalkSkylineInfo() {
-    infoTalkOutSystem.style.opacity="1";
-    infoTalkOutSystem.style.display="unset";
+    infoTalkSkyline.style.opacity="1";
+    infoTalkSkyline.style.display="unset";
 }
 
 let infoTalkInnowave = document.getElementById("talkInnowaveInfo");
