@@ -3,9 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="6bb65dae-2ac2-42fe-923a-8cb1bd6082e5" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Schedule.html" beforeDir="false" afterPath="$PROJECT_DIR$/Schedule.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myJSfile.js" beforeDir="false" afterPath="$PROJECT_DIR$/myJSfile.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myStyle.css" beforeDir="false" afterPath="$PROJECT_DIR$/myStyle.css" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -138,8 +135,8 @@
     <session id="1653719369">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="11" />
-          <entry key="project.open.time.1" value="3" />
+          <entry key="project.closed" value="12" />
+          <entry key="project.open.time.1" value="4" />
           <entry key="project.open.time.11" value="3" />
           <entry key="project.open.time.12" value="2" />
           <entry key="project.open.time.13" value="1" />
@@ -149,23 +146,23 @@
           <entry key="project.open.time.26" value="1" />
           <entry key="project.open.time.8" value="2" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="17" />
+          <entry key="project.opened" value="18" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="css" value="3227" />
+          <entry key="css" value="3230" />
           <entry key="html" value="4665" />
           <entry key="js" value="468" />
-          <entry key="txt" value="831" />
+          <entry key="txt" value="865" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="CSS" value="3227" />
+          <entry key="CSS" value="3230" />
           <entry key="HTML" value="4665" />
           <entry key="JavaScript" value="468" />
-          <entry key="PLAIN_TEXT" value="831" />
+          <entry key="PLAIN_TEXT" value="865" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -185,7 +182,7 @@
     </session>
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="vertical" split-proportion="0.58356166">
+    <splitter split-orientation="vertical" split-proportion="0.8304">
       <split-first>
         <splitter split-orientation="horizontal" split-proportion="0.5313741">
           <split-first>
@@ -211,8 +208,8 @@
               <file pinned="false" current-in-tab="true">
                 <entry file="file://$PROJECT_DIR$/Schedule.html">
                   <provider selected="true" editor-type-id="text-editor">
-                    <state relative-caret-position="136">
-                      <caret line="169" column="38" lean-forward="true" selection-start-line="169" selection-start-column="38" selection-end-line="169" selection-end-column="38" />
+                    <state relative-caret-position="227">
+                      <caret line="541" column="19" lean-forward="true" selection-start-line="541" selection-start-column="19" selection-end-line="541" selection-end-column="19" />
                     </state>
                   </provider>
                 </entry>
@@ -229,7 +226,7 @@
               <file pinned="false" current-in-tab="false">
                 <entry file="file://$PROJECT_DIR$/Patners.html">
                   <provider selected="true" editor-type-id="text-editor">
-                    <state relative-caret-position="81">
+                    <state relative-caret-position="2190">
                       <caret line="146" column="47" selection-start-line="146" selection-start-column="47" selection-end-line="146" selection-end-column="58" />
                     </state>
                   </provider>
@@ -260,8 +257,8 @@
               <file pinned="false" current-in-tab="true">
                 <entry file="file://$PROJECT_DIR$/myStyle.css">
                   <provider selected="true" editor-type-id="text-editor">
-                    <state relative-caret-position="258">
-                      <caret line="2437" column="17" selection-start-line="2437" selection-start-column="17" selection-end-line="2437" selection-end-column="17" />
+                    <state relative-caret-position="359">
+                      <caret line="1817" column="18" selection-start-line="1817" selection-start-column="18" selection-end-line="1817" selection-end-column="18" />
                     </state>
                   </provider>
                 </entry>
@@ -275,7 +272,7 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/myJSfile.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="227">
+                <state relative-caret-position="1">
                   <caret line="187" selection-start-line="187" selection-end-line="187" />
                 </state>
               </provider>
@@ -333,7 +330,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
-    <property name="SearchEverywhereHistoryKey" value="wo&#9;null&#9;null&#10;actWorkshop&#9;null&#9;null&#10;Bol&#9;null&#9;null&#10;sp&#9;null&#9;null&#10;Navigat&#9;null&#9;null&#10;space&#9;null&#9;null&#10;innowa&#9;null&#9;null&#10;In&#9;FILE&#9;file:///Users/marisaalves/Documents/GitHub/bew2019/Innowave.png&#10;Mer&#9;null&#9;null&#10;Merc&#9;FILE&#9;file:///Users/marisaalves/Documents/GitHub/bew2019/Mercedes_Benz_io.png&#10;St&#9;null&#9;null&#10;Stra&#9;FILE&#9;file:///Users/marisaalves/Documents/GitHub/bew2019/Stratio_Automotive.png&#10;spa&#9;null&#9;null&#10;Ma&#9;null&#9;null&#10;cr&#9;null&#9;null&#10;smallLogo13&#9;null&#9;null&#10;fi&#9;null&#9;null&#10;sunse&#9;null&#9;null&#10;work&#9;null&#9;null&#10;fir&#9;null&#9;null&#10;jobF&#9;null&#9;null&#10;des&#9;null&#9;null&#10;workshopRo&#9;null&#9;null&#10;company&#9;null&#9;null&#10;small&#9;null&#9;null&#10;spaceBlanck18&#9;null&#9;null&#10;blan&#9;null&#9;null&#10;nex&#9;null&#9;null&#10;descrip&#9;null&#9;null&#10;actWork&#9;null&#9;null&#10;pit&#9;null&#9;null&#10;foo&#9;null&#9;null&#10;ardu&#9;null&#9;null&#10;space5&#9;null&#9;null&#10;smallLo&#9;null&#9;null&#10;sub&#9;null&#9;null&#10;smallLogo8&#9;null&#9;null&#10;miss&#9;null&#9;null&#10;actW&#9;null&#9;null&#10;horar&#9;null&#9;null&#10;horario&#9;null&#9;null&#10;mission&#9;null&#9;null&#10;st&#9;null&#9;null&#10;compa&#9;null&#9;null&#10;function&#9;null&#9;null&#10;h4&#9;null&#9;null&#10;fui&#9;null&#9;null&#10;foot&#9;null&#9;null&#10;.com&#9;null&#9;null&#10;over&#9;null&#9;null" />
+    <property name="SearchEverywhereHistoryKey" value="fir&#9;null&#9;null&#10;wo&#9;null&#9;null&#10;actWorkshop&#9;null&#9;null&#10;Bol&#9;null&#9;null&#10;sp&#9;null&#9;null&#10;Navigat&#9;null&#9;null&#10;space&#9;null&#9;null&#10;innowa&#9;null&#9;null&#10;In&#9;FILE&#9;file:///Users/marisaalves/Documents/GitHub/bew2019/Innowave.png&#10;Mer&#9;null&#9;null&#10;Merc&#9;FILE&#9;file:///Users/marisaalves/Documents/GitHub/bew2019/Mercedes_Benz_io.png&#10;St&#9;null&#9;null&#10;Stra&#9;FILE&#9;file:///Users/marisaalves/Documents/GitHub/bew2019/Stratio_Automotive.png&#10;spa&#9;null&#9;null&#10;Ma&#9;null&#9;null&#10;cr&#9;null&#9;null&#10;smallLogo13&#9;null&#9;null&#10;fi&#9;null&#9;null&#10;sunse&#9;null&#9;null&#10;work&#9;null&#9;null&#10;jobF&#9;null&#9;null&#10;des&#9;null&#9;null&#10;workshopRo&#9;null&#9;null&#10;company&#9;null&#9;null&#10;small&#9;null&#9;null&#10;spaceBlanck18&#9;null&#9;null&#10;blan&#9;null&#9;null&#10;nex&#9;null&#9;null&#10;descrip&#9;null&#9;null&#10;actWork&#9;null&#9;null&#10;pit&#9;null&#9;null&#10;foo&#9;null&#9;null&#10;ardu&#9;null&#9;null&#10;space5&#9;null&#9;null&#10;smallLo&#9;null&#9;null&#10;sub&#9;null&#9;null&#10;smallLogo8&#9;null&#9;null&#10;miss&#9;null&#9;null&#10;actW&#9;null&#9;null&#10;horar&#9;null&#9;null&#10;horario&#9;null&#9;null&#10;mission&#9;null&#9;null&#10;st&#9;null&#9;null&#10;compa&#9;null&#9;null&#10;function&#9;null&#9;null&#10;h4&#9;null&#9;null&#10;fui&#9;null&#9;null&#10;foot&#9;null&#9;null&#10;.com&#9;null&#9;null&#10;over&#9;null&#9;null" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
@@ -397,7 +394,8 @@
       <workItem from="1554238796264" duration="95000" />
       <workItem from="1554325199438" duration="2464000" />
       <workItem from="1554389677116" duration="35553000" />
-      <workItem from="1554467202227" duration="7465000" />
+      <workItem from="1554467202227" duration="8334000" />
+      <workItem from="1554492449877" duration="460000" />
     </task>
     <task id="LOCAL-00001" summary="acrecentar logos">
       <created>1553815828628</created>
@@ -735,11 +733,18 @@
       <option name="project" value="LOCAL" />
       <updated>1554475972042</updated>
     </task>
-    <option name="localTasksCounter" value="49" />
+    <task id="LOCAL-00049" summary="Workshop Critical (NEW WORKSHOP)">
+      <created>1554488795876</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1554488795876</updated>
+    </task>
+    <option name="localTasksCounter" value="50" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="248309000" />
+    <option name="totallyTimeSpent" value="249638000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -756,7 +761,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" weight="0.14452554" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="8" visible="true" weight="0.14383562" />
       <window_info anchor="bottom" id="Terminal" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.329927" />
@@ -782,7 +787,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="atualização do programa, company talks de quinta á tarde, correção de sobreposição" />
     <MESSAGE value="adicionei os novos logos em Patner.html" />
     <MESSAGE value="First Hand investigation actividade adicionada" />
     <MESSAGE value="adicionei os pitch's" />
@@ -807,7 +811,8 @@
     <MESSAGE value="alterações nos Partners" />
     <MESSAGE value="DONE" />
     <MESSAGE value="Done finalissimo" />
-    <option name="LAST_COMMIT_MESSAGE" value="Done finalissimo" />
+    <MESSAGE value="Workshop Critical (NEW WORKSHOP)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Workshop Critical (NEW WORKSHOP)" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/logoCabecalho.png">
@@ -864,6 +869,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Patners.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2190">
+          <caret line="146" column="47" selection-start-line="146" selection-start-column="47" selection-end-line="146" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Students.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="945">
@@ -878,31 +890,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Patners.html">
+    <entry file="file://$PROJECT_DIR$/myStyle.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="81">
-          <caret line="146" column="47" selection-start-line="146" selection-start-column="47" selection-end-line="146" selection-end-column="58" />
+        <state relative-caret-position="359">
+          <caret line="1817" column="18" selection-start-line="1817" selection-start-column="18" selection-end-line="1817" selection-end-column="18" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/myJSfile.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="227">
+        <state relative-caret-position="1">
           <caret line="187" selection-start-line="187" selection-end-line="187" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myStyle.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="258">
-          <caret line="2437" column="17" selection-start-line="2437" selection-start-column="17" selection-end-line="2437" selection-end-column="17" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Schedule.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="169" column="38" lean-forward="true" selection-start-line="169" selection-start-column="38" selection-end-line="169" selection-end-column="38" />
+        <state relative-caret-position="227">
+          <caret line="541" column="19" lean-forward="true" selection-start-line="541" selection-start-column="19" selection-end-line="541" selection-end-column="19" />
         </state>
       </provider>
     </entry>
