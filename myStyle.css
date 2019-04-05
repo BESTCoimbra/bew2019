@@ -44,7 +44,7 @@
     margin-left: -1200px;
 }
 .space5{
-    height: 1000px;
+    height: 9580px;
     z-index: 1;
 }
 .space6{
@@ -569,6 +569,17 @@ h4{
 
 }
 
+.smallLogo15:hover .smallLogoImg{
+    width: 120px;
+    margin-top: 20px;
+    margin-left: 20px;
+
+}
+.smallLogo15 .smallLogoImg{
+    margin-top: 20px;
+    margin-left: 20px;
+    width: 110px;
+}
 
 .smallLogoImg1{
     width: 110px;
@@ -587,7 +598,8 @@ h4{
 
 .smallLogo1, .smallLogo2, .smallLogo3, .smallLogo4, .smallLogo5,
 .smallLogo6, .smallLogo7, .smallLogo8, .smallLogo9, .smallLogo10,
-.smallLogo11, .smallLogo12, .smallLogo13, .smallLogo14{
+.smallLogo11, .smallLogo12, .smallLogo13, .smallLogo14, .smallLogo15,
+.smallLogo16{
     width: 150px;
     height: 150px;
     background-color: #FFFFFF;
@@ -597,7 +609,8 @@ h4{
 }
 .smallLogo1:hover, .smallLogo2:hover, .smallLogo3:hover, .smallLogo4:hover,.smallLogo9:hover,
 .smallLogo5:hover, .smallLogo6:hover, .smallLogo7:hover , .smallLogo8:hover,.smallLogo10:hover,
-.smallLogo11:hover, .smallLogo12:hover, .smallLogo13:hover, .smallLogo14:hover {
+.smallLogo11:hover, .smallLogo12:hover, .smallLogo13:hover, .smallLogo14:hover, .smallLogo15:hover,
+.smallLogo16:hover{
     width: 170px;
     height: 170px;
     z-index: 3;
@@ -608,6 +621,383 @@ h4{
     z-index: 4;
 }
 
+.smallLogo15{
+    margin-left: 300px;
+    margin-top: 750px;
+    z-index: 3;
+}
+.smallLogo16{
+    margin-top: 750px;
+    margin-left: 600px;
+    z-index: 3;
+}
+.smallLogo16:hover{
+    margin-left:590 px;
+    margin-top: 740px;
+    z-index: 3;
+}
+.smallLogo15:hover{
+    margin-left: 290px;
+    margin-top: 740px;
+}
+.pinkSquare25, .pinkSquare24, .pinkSquare23{
+    height: 150px;
+    width: 150px;
+    position: absolute;
+}
+.pinkSquare25{
+    margin-top: 750px;
+    background-color: #CF0967;
+
+}
+.pinkSquare24{
+    margin-top: 750px;
+    background-color: #CF0967;
+    margin-left: 750px;
+}
+.pinkSquare23{
+    margin-top: 750px;
+    background-color: #53C4F1;
+    margin-left: 900px;
+}
+.b1{
+    background-color: #53C4F1;
+    width: 600px;
+    height: 600px;
+    position: absolute;
+    margin-top: 900px;
+    opacity: 0.7;
+
+}
+.criticalSoftware{
+    position: absolute;
+    margin-top: 900px;
+    width: 450px;
+    padding: 75px;
+    margin-left: 600px;
+    color: #53C4F1;
+}
+#imgCritical{
+    position: absolute;
+    margin-top: 1030px;
+    width: 600px;
+}
+.biSlique{
+    position: absolute;
+    margin-top: 1500px;
+    width: 450px;
+    padding: 75px;
+    background-color: #CF0967;
+    color: #FFFFFF;
+}
+#imgBiSlique{
+    position: absolute;
+    margin-top: 1655px;
+    margin-left: 600px;
+    width: 600px;
+    background-color: #CF0967;
+    color: #FFFFFF;
+}
+.b2{
+    position: absolute;
+    background-color: #CF0967;
+    width: 600px;
+    margin-left: 600px;
+    margin-top: 1500px;
+    opacity: 0.7;
+    height: 700px;
+
+}
+.Bold{
+    position: absolute;
+    margin-top: 2198px;
+    margin-left: 600px;
+    width: 450px;
+    padding: 75px;
+    background-color: #53C4F1;
+    color: #251F54;
+}
+.b12{
+    position: absolute;
+    background-color: #53C4F1;
+    width: 600px;
+    margin-top: 2198px;
+    opacity: 0.7;
+    height: 753px;
+
+}
+#imgBold{
+    position: absolute;
+    margin-top: 2400px;
+    width: 600px;
+}
+.BorgWarner{
+    position: absolute;
+    margin-top: 2950px;
+    width: 450px;
+    padding: 75px;
+    background-color: #CF0967;
+    color: #FFFFFF;
+}
+#imgBorg{
+    position: absolute;
+    margin-top: 2975px;
+    width: 600px;
+    margin-left: 600px;
+}
+.b3{
+    width: 600px;
+    height: 485px;
+    opacity: 0.7;
+    position: absolute;
+    background-color: #CF0967;
+    margin-top: 2950px;
+    margin-left: 600px;
+}
+.deloitte{
+    position: absolute;
+    margin-top: 3430px;
+    margin-left: 600px;
+    width: 450px;
+    padding: 75px;
+    background-color: #251F54;
+    color: #FFFFFF;
+}
+#imgDeloitte{
+    width: 600px;
+    position: absolute;
+    margin-top: 3555px;
+
+
+}
+.Innowave{
+    position: absolute;
+    margin-top: 4170px;
+    width: 450px;
+    padding: 75px;
+    background-color: #53C4F1;
+    color: #251F54;
+}
+.b14{
+    position: absolute;
+    background-color: #53C4F1;
+    width: 600px;
+    margin-left: 600px;
+    margin-top: 4170px;
+    opacity: 0.7;
+    height: 753px;
+
+}
+#videoInnowave{
+    width: 600px;
+    position: absolute;
+    margin-left: 600px;
+    margin-top: 4380px;
+    z-index: 4;
+}
+.Martifer{
+    position: absolute;
+    margin-top: 4813px;
+    margin-left: 600px;
+    width: 450px;
+    padding: 75px;
+    background-color: #CF0967;
+    color: #53C4F1;
+}
+.b4 {
+    background-color: #CF0967;
+    opacity: 0.7;
+    margin-top:4813px;
+    height: 590px;
+    width: 600px;
+    position: absolute;
+}
+#imgMartifer {
+position: absolute;
+    margin-top:4900px ;
+    width: 600px;
+    z-index: 1;
+}
+
+.b5{
+    position: absolute;
+    background-color: #FFFFFF;
+    opacity: 0.3;
+    margin-left: 600px;
+    margin-top: 5403px;
+    width: 600px;
+    height: 700px;
+}
+.OutSystems{
+    position: absolute;
+    margin-top: 5360px;
+    width: 450px;
+    padding: 75px;
+    color: #53C4F1;
+}
+
+#imgOutSystems{
+    margin-top: 5560px;
+    width: 600px;
+    margin-left: 600px;
+    position: absolute;
+}
+.Skyline{
+    position: absolute;
+    margin-top: 6090px;
+    margin-left: 600px;
+    width: 450px;
+    padding: 75px;
+    background-color: #53C4F1;
+    color: #251F54;
+}
+#imgSkyline{
+    margin-top: 6160px;
+    width: 600px;
+    position: absolute;
+    z-index: 1;
+}
+.b6{
+    width: 600px;
+    margin-top: 6090px;
+    position: absolute;
+    height: 700px;
+    background-color: #53C4F1;
+    opacity: 0.6;
+
+}
+.Technip{
+    position: absolute;
+    margin-top: 6645px;
+    width: 450px;
+    padding: 75px;
+    background-color: #CF0967;
+    color: #FFFFFF;
+}
+#imgTechnip{
+    margin-top: 6780px;
+    width: 600px;
+    margin-left: 600px;
+    position: absolute;
+    z-index: 1;
+}
+.b7{
+    width: 600px;
+    margin-top: 6645px;
+    position: absolute;
+    height: 646px;
+    background-color: #CF0967;
+    opacity: 0.6;
+    margin-left: 600px;
+
+}
+.Stratio{
+    position: absolute;
+    margin-top: 7250px;
+    margin-left: 600px;
+    width: 450px;
+    padding: 75px;
+    color: #FFFFFF;
+}
+.b8{
+    position: absolute;
+    margin-top: 7290px;
+    position: absolute;
+    height: 646px;
+    background-color: #FFFFFF;
+    opacity: 0.2;
+    width: 600px;
+}
+#imgStratio{
+    position: absolute;
+    width: 600px;
+    margin-top: 7450px;
+    z-index: 1;
+
+}
+#imgStratio {
+    position: absolute;
+    width: 600px;
+    margin-top: 7450px;
+    z-index: 1;
+}
+.ESA{
+    position: absolute;
+    margin-top: 7935px;
+    width: 450px;
+    padding: 75px;
+    background-color: #53C4F1;
+    color: #CF0967;
+}
+.b9{
+    position: absolute;
+    margin-top: 7935px;
+    height: 700px;
+    margin-left: 600px;
+    background-color: #53C4F1;
+    opacity: 0.6;
+    width: 600px;
+}
+#imgEsa{
+    position: absolute;
+    width: 600px;
+    margin-top: 8100px;
+    z-index: 1;
+    margin-left: 600px;
+}
+.Mercedes{
+    position: absolute;
+    margin-top: 8634px;
+    margin-left: 600px;
+    width: 450px;
+    padding: 75px;
+    background-color: #CF0967;
+    color: #53C4F1;
+    z-index: 1;
+}
+#imgMercedes{
+    position: absolute;
+    width: 600px;
+    margin-top: 8780px;
+    z-index: 1;
+}
+.b10{
+    background-color: #CF0967;
+    position: absolute;
+    margin-top: 8634px;
+    width: 600px;
+    height: 830px;
+}
+.Navigator{
+    position: absolute;
+    margin-top: 9333px;
+    width: 450px;
+    padding: 75px;
+    background-color: #251F54;
+    color: #53C4F1;
+}
+.b11{
+    background-color: #FFFFFF;
+    position: absolute;
+    margin-top: 9330px;
+    width: 600px;
+    height: 800px;
+    margin-left: 600px;
+    opacity: 0.15;
+}
+#imgNavigator{
+    position: absolute;
+    margin-top: 9550px;
+    width: 600px;
+    margin-left: 600px;
+}
+
+
+h1.empresa{
+    margin-left: 0;
+    padding-left: 0;
+    font-size: 75px;
+}
 .smallLogo14{
     margin-left: 1050px;
     margin-top: 600px;
