@@ -102,7 +102,7 @@ function showWorkshopCaseStudyInfo() {
 
 }
 
-let infoWorkTalkImpressao= document.getElementById("talkImpressão");
+let infoWorkTalkImpressao= document.getElementById("talkImpressao");
 function showTalkImpressao() {
     infoWorkTalkImpressao.style.opacity="1";
     infoWorkTalkImpressao.style.display="unset";

@@ -1868,7 +1868,7 @@ opacity: 0.8;
     display: none;
 
 }
-#talkImpressão{
+#talkImpressao{
     position: fixed;
     place-content: center;
     margin-left: 400px;
@@ -2026,7 +2026,7 @@ strong{
 span{
     position: fixed;
 }
-#workshopCriticalInfo span,#talkMartiferInfo span,#pichtCriticalInfo span, #pichtSkylineInfo span,#workshopSunsetInfo span,#workshopOutsystemInfo span,#workshopDeloitteInfo span, #workshopArduinoInfo span,#talkImpressão span, #caseStudyInfo span, #workshopRoboticaInfo span,#workshopMercedesInfo span, #firtsHandInvestigationInfo span,
+#workshopCriticalInfo span,#talkMartiferInfo span,#pichtCriticalInfo span, #pichtSkylineInfo span,#workshopSunsetInfo span,#workshopOutsystemInfo span,#workshopDeloitteInfo span, #workshopArduinoInfo span,#talkImpressao span, #caseStudyInfo span, #workshopRoboticaInfo span,#workshopMercedesInfo span, #firtsHandInvestigationInfo span,
 #talkCriticalInfo span, #talkCompanyOutSystemsInfo span, #talkSkylineInfo span,
 #talkInnowaveInfo span,#talkMarquesInfo span, #talkBorgWarnerInfo span, #talkStratioInfo span{
     margin-left: 390px;
