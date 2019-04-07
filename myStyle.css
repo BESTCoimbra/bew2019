@@ -1834,6 +1834,23 @@ opacity: 0.8;
     display: none;
 
 }
+#workshopCriticalInfo{
+    position: fixed;
+    place-content: center;
+    margin-left: 400px;
+    width: 390px;
+    padding:30px 40px 30px 40px;
+    height: 400px;
+    background-color: #251F54;
+    color: #FFFFFF;
+    z-index: 4;
+    margin-top: -250px;
+    font-family:PTSans;
+    align-items: center;
+    overflow: auto;
+    display: none;
+
+}
 #caseStudyInfo{
     position: fixed;
     place-content: center;
@@ -1968,7 +1985,7 @@ opacity: 0.8;
     display: none;
 }
 
-#talkCriticalInfo, #talkCompanyOutSystemsInfo, #talkSkylineInfo,
+#talkCriticalInfo, #talkCompanyOutSystemsInfo, #talkSkylineInfo, #talkMarquesInfo,
 #talkInnowaveInfo,#talkMartiferInfo, #talkBorgWarnerInfo, #talkStratioInfo{
     position: fixed;
     place-content: center;
@@ -2009,9 +2026,9 @@ strong{
 span{
     position: fixed;
 }
-#talkMartiferInfo span,#pichtCriticalInfo span, #pichtSkylineInfo span,#workshopSunsetInfo span,#workshopOutsystemInfo span,#workshopDeloitteInfo span, #workshopArduinoInfo span,#talkImpressão span, #caseStudyInfo span, #workshopRoboticaInfo span,#workshopMercedesInfo span, #firtsHandInvestigationInfo span,
+#workshopCriticalInfo span,#talkMartiferInfo span,#pichtCriticalInfo span, #pichtSkylineInfo span,#workshopSunsetInfo span,#workshopOutsystemInfo span,#workshopDeloitteInfo span, #workshopArduinoInfo span,#talkImpressão span, #caseStudyInfo span, #workshopRoboticaInfo span,#workshopMercedesInfo span, #firtsHandInvestigationInfo span,
 #talkCriticalInfo span, #talkCompanyOutSystemsInfo span, #talkSkylineInfo span,
-#talkInnowaveInfo span, #talkBorgWarnerInfo span, #talkStratioInfo span{
+#talkInnowaveInfo span,#talkMarquesInfo span, #talkBorgWarnerInfo span, #talkStratioInfo span{
     margin-left: 390px;
     margin-top: -5px;
 }
@@ -2141,6 +2158,28 @@ span{
     -ms-transform: rotate(-90deg); /* IE 9 */
     -webkit-transform: rotate(-90deg); /* Safari */
     transform: rotate(-90deg);
+    z-index: 4;
+}
+.talkMarques{
+    position: absolute;
+    margin-left: 750px;
+    height: 38px;
+    background-color: #CF0967;
+    color: #FFFFFF;
+    width: 135px;
+    padding-left: 15px;
+    margin-top: 450px;
+    opacity: 0.9;
+    z-index: 3;
+
+}
+.talkMarques:hover{
+    width: 150px;
+    height: 48px;
+    margin-left: 745px;
+    margin-top: 445px;
+    color: #53C4F1;
+    opacity: 1;
     z-index: 4;
 }
 .companyTalkCriticalSoftware{

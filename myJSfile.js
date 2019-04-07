@@ -196,5 +196,10 @@ function showLunchInfo() {
     infoLunch.style.opacity="1";
     infoLunch.style.display="unset";
 }
+let infoMarques = document.getElementById("talkMarquesInfo");
+function showMarquesInfo() {
+    infoMarques.style.opacity="1";
+    infoMarques.style.display="unset";
+}
 
 
