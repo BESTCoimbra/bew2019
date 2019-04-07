@@ -89,6 +89,12 @@ function showWorkshopRoboticaInfo() {
     infoWorkRobotica.style.display="unset";
 
 }
+let infoWorkCritical= document.getElementById("workshopCriticalInfo");
+function showWorkshopCritical() {
+    infoWorkCritical.style.opacity="1";
+    infoWorkCritical.style.display="block";
+
+}
 let infoWorkCaseStudy= document.getElementById("caseStudyInfo");
 function showWorkshopCaseStudyInfo() {
     infoWorkCaseStudy.style.opacity="1";
@@ -135,6 +141,12 @@ let infoPitchSkyline = document.getElementById("pichtSkylineInfo");
 function showPichtSkylineInfo() {
     infoPitchSkyline.style.opacity="1";
     infoPitchSkyline.style.display="unset";
+}
+
+let infoPitchCritical = document.getElementById("pichtCriticalInfo");
+function showPichtCriticalInfo() {
+    infoPitchCritical.style.opacity="1";
+    infoPitchCritical.style.display="unset";
 }
 
 let infoTalkCritical = document.getElementById("talkCriticalInfo");
