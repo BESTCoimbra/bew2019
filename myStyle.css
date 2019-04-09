@@ -2480,15 +2480,15 @@ span{
 .actDynamicTalk:hover{
     width: 140px;
     height: 160px;
-    margin-left: 295px;
-    margin-top: 595px;
+    margin-left: 445px;
+    margin-top: 445px;
     color: #53C4F1;
     z-index: 3;
     opacity: 1;
 }
 .actDynamicTalk{
     position: absolute;
-    margin-left: 300px;
+    margin-left: 450px;
     width: 130px;
     height: 150px;
     background-color: #CF0967;
@@ -2496,7 +2496,7 @@ span{
     padding-left: 20px;
     display: grid;
     align-items: center;
-    margin-top: 600px;
+    margin-top: 450px;
     opacity: 0.79;
     z-index: 2;
 }
@@ -2682,8 +2682,8 @@ span{
     opacity: 0.57;
 }
 .spaceBlanck08{
-    margin-top: 450px;
-    margin-left: 450px;
+    margin-top: 600px;
+    margin-left: 300px;
     opacity: 0.74;
 }
 .spaceBlanck18{
